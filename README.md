@@ -41,7 +41,7 @@ Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin ister
 ## İzinler
 Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum.
 
-<img src="paul.png" alt="drawing" width="650"/>
+<img src="assets/paul.png" alt="drawing" width="650"/>
 
 
 ## İletişim

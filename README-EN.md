@@ -40,7 +40,7 @@ The translations are completely voluntary, so we kindly ask you not to send auto
 ## Permissions
 Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum.
 
-<img src="paul.png" alt="drawing" width="650"/>
+<img src="assets/paul.png" alt="drawing" width="650"/>
 
 
 ## Contact
