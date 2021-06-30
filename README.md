@@ -15,8 +15,8 @@
 |[Fethi Tekyaygil](https://github.com/TekyaygilFethi)|1|
 
 ## Translated Essays / Çevirilen Yazılar  
-- [How to Work Hard - Nasıl Sıkı Çalışılır](how-to-work-hard.md)
-- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](six-principles-for-making-new-thins.md)
+- [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
+- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
 
 ## Upcoming Translations / Bekleyen Yazılar
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](http://paulgraham.com/genius.html)
