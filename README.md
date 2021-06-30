@@ -1,5 +1,5 @@
 # paul-graham-turkce
-🇬🇧 [Read this page in English](https://github.com/cobanov/paul-graham-turkce/README-EN.md)
+🇬🇧 [Read this page in English](README-EN.md)
 ---
 
 Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçeye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
