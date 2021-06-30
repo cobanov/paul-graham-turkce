@@ -37,13 +37,12 @@ Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin ister
 Çeviriler tamamen gönüllülük esaslı bu yüzden otomatik çeviri göndermemenizi rica ediyoruz, çeviri yaptıktan sonra dile uygunluğunu sesli bir şekilde kendinize okuyarak test edin, gönderilen tüm çeviriler son bir kontrolden sonra repoya eklenecektir.
 
 
-## Permissions and License
+## Permissions
 ### İzinler
-Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum. İlgili lisans için yeterli araştırmayı yaptıktan sonra repoya ekleyeceğim.
+Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum.
 
 <img src="paul.png" alt="drawing" width="650"/>
 
-### Lisans
 
 ## Iletişim / Contact
 **Mert Cobanov**
