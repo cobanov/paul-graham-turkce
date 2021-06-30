@@ -24,20 +24,30 @@
 ---
 
 ## Contributions / Katkıda Bulunun
+
+### Çeviriye Başlamadan Önce
+Aynı essay'i çevirmemek adına bir çeviriye başladığınızda bunu issue bölümünden belirtebilirsiniz. Aynı zamanda çeviride diğer arkadaşlardan öneri almak ve iletişim kurmak için [Discord Kanalımıza](https://discord.gg/PY7DwAArwU) gelebilirsiniz.
+
+### Nasıl Katkıda Bulunurum?
 İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız. 
 
 Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz. 
 
+### Ufak bir rica
 Çeviriler tamamen gönüllülük esaslı bu yüzden otomatik çeviri göndermemenizi rica ediyoruz, çeviri yaptıktan sonra dile uygunluğunu sesli bir şekilde kendinize okuyarak test edin, gönderilen tüm çeviriler son bir kontrolden sonra repoya eklenecektir.
 
 
 ## Permissions and License
+### İzinler
 Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum. İlgili lisans için yeterli araştırmayı yaptıktan sonra repoya ekleyeceğim.
 
 <img src="paul.png" alt="drawing" width="650"/>
 
+### Lisans
+
 ## Iletişim / Contact
 **Mert Cobanov**
+
 Proje kapsamında her türlü sorunuz ve öneriniz için aşağıdaki iki adresten ulaşabilirsiniz.
 
 - **Twitter:** [mertcobanov](https://twitter.com/mertcobanov)
