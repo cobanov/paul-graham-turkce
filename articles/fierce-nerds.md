@@ -1,6 +1,7 @@
 # Fierce Nerds
 
 **Kaynak:** http://paulgraham.com/fn.html
+
 **Yazar:** Paul Graham
 
 **Çeviren:** Eylül Kırdak
