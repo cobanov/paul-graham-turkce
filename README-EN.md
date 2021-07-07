@@ -10,10 +10,14 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 |-|-|
 |[Mert Cobanov](https://github.com/cobanov/)| 2 |
 |[Fethi Tekyaygil](https://github.com/TekyaygilFethi)|1|
+|[Eylül Kırdak](https://github.com/eylulkirdak/)| 1 |
+
 
 ## Translated Essays 
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
 - [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
+- [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
+
 
 ## Upcoming Translations
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](http://paulgraham.com/genius.html)
