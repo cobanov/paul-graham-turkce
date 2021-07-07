@@ -32,17 +32,17 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 In order not to translate the same essay, when you start a translation, you can specify it in the issue section. At the same time, you can come to our [Discord Channel](https://discord.gg/PY7DwAArwU) to get suggestions and communication from other friends in translation.
 
 
-### Nasıl Katkıda Bulunurum?
-İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız. 
+### How Do I Contribute?
+You can contribute in two ways, the first is to translate new essays as you can imagine, the second is to send us the mistakes you find in the translated articles or your better suggestion. We are open to any kind of contribution.
 
-Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz. 
+It is very easy to contribute to the project, if you want, send a Pull Request, or you can send us your translation by [e-mail](mailto:mertcobanov@gmail.com).
 
 ### A small request 
 The translations are completely voluntary, so we kindly ask you not to send automatic translations, test the language suitability by reading aloud to yourself after translation, all submitted translations will be added to the repo after a final check.
 
 
 ## Permissions
-Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum.
+Paul Graham was contacted directly for this project and I am very happy that he gave us the necessary permissions.
 
 <img src="assets/paul.png" alt="drawing" width="650"/>
 
