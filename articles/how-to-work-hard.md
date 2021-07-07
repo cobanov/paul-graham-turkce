@@ -1,6 +1,6 @@
 # How to Work Hard
 
-**Kaynak:** http://paulgraham.com/hwh.html
+**Kaynak:** [http://paulgraham.com/hwh.html](http://paulgraham.com/hwh.html)
 
 **Yazar:** Paul Graham
 

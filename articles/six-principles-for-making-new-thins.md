@@ -1,6 +1,6 @@
 # Six Principles for Making New Things
 
-**Kaynak:** http://paulgraham.com/newthings.html
+**Kaynak:** [http://paulgraham.com/newthings.html](http://paulgraham.com/newthings.html)
 
 **Yazar:** Paul Graham
 

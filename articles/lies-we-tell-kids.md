@@ -1,6 +1,6 @@
 # Lies We Tell Kids
 
-**Kaynak:** http://paulgraham.com/lies.html
+**Kaynak:** [http://paulgraham.com/lies.html](http://paulgraham.com/lies.html)
 
 **Yazar:** Paul Graham
 

@@ -1,6 +1,6 @@
 # Fierce Nerds
 
-**Kaynak:** http://paulgraham.com/fn.html
+**Kaynak:** [http://paulgraham.com/fn.html](http://paulgraham.com/fn.html)
 
 **Yazar:** Paul Graham
 
