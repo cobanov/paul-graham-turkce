@@ -1,8 +1,11 @@
+# Lies We Tell Kids
+
 **Kaynak:** http://paulgraham.com/lies.html
+
 **Yazar:** Paul Graham
+
 **Çeviren:** Fethi Tekyaygil
-**Date Written:** May 2008
-**Date Translated:** Jul 2021
+
 
 ## Türkçe
 Yetişkinler çocuklara sürekli yalan söyler. Durmalıyız demiyorum ama en azından hangi yalanları neden söylediğimizi incelememiz gerektiğini düşünüyorum.
