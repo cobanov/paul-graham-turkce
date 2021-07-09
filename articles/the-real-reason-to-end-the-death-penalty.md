@@ -1,5 +1,5 @@
 # THE REAL REASON TO END THE DEATH PENALTY
----
+
 Kaynak: [http://paulgraham.com/real.html](http://paulgraham.com/real.html)
 
 Yazar: Paul Graham
@@ -7,7 +7,7 @@ Yazar: Paul Graham
 Çeviren: Ayşe Nur Erdem
 
 ## Türkçe
----
+
 Nisan 2021
 
 
@@ -45,7 +45,7 @@ Bu beceriksizlik ve sahtekarlık sirki idam cezasıyla ilgili gerçek problemdir
 
 
 ## Orijinal
----
+
 April 2021
 
 When intellectuals talk about the death penalty, they talk about things like whether it's permissible for the state to take someone's life, whether the death penalty acts as a deterrent, and whether more death sentences are given to some groups than others. But in practice the debate about the death penalty is not about whether it's ok to kill murderers. It's about whether it's ok to kill innocent people, because at least 4% of people on death row are [innocent](https://www.pnas.org/content/111/20/7230).
