@@ -52,6 +52,9 @@ Bunun doğru olduğundan pek emin değilim. Bir yandan ilgilendiğiniz bir şey 
 
 Bu yalnızca izlenen bir yolun getirilerini tahmin etmenin zorluğu değildir. Onlar zamanla önemli ölçüde değişebilirler. Örneğin 1830 doğa tarihine takıntılı bir ilgi duymak için gayet iyi bir zamandı. Eğer Darwin 1809 yerine 1709'da doğmuş olsaydı adını hiç duymayabilirdik.
 
+Böyle bir belirsizlik karşısında ne yapılabilir? Birinci çözüm iddiamızı kısıtlamak, bu durumda bu kendi özel takıntılarınız yerine açıkça gelecek vaadeden yolları takip etmek anlamına gelir. Her kısıtlamada olduğu gibi bu durumda da riski azaltarak ödülü azaltmış olursunuz. Geleneksel olarak daha iddialı bir yol izlemek için sevdiğiniz şey üzerinde çalışmaktan vazgeçerseniz keşfedebileceğiniz harika bir şeyi kaçırabilirsiniz. Bu da her zaman yaşanmak zorunda belki her iddiası başarısız olmuş bir dehadan bile daha sık şekilde. 
+
+Diğer bir çözüm ise kendinize farklı ilgi alanlarına ilgi duymak için izin vermektir. Eğer şimdiye kadar işe yarıyor gibi görünen eşit derecede samimi ilgi alanlarınız arasında geçiş yaparsanız yükselişinizi azaltmazsınız. Ancak şöyle de bir tehlike vardır: Çok farklı projelerde çalışırsanız hiçbirinde derinleşemeyebilirsiniz. 
 
 
 [1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir.
