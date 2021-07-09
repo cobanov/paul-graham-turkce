@@ -42,8 +42,19 @@ Peki önemli olan şey nedir? Asla tam olarak emin olamazsınız. Bu kesin olan 
 
 Ancak bir saplantının önemli olup olmadığını tahmin etmek için kullanabileceğiniz bazı yöntemler vardır. Örneğin başkasının ürettiği bir şeyi tüketmek yerine kendiniz üretiyorsanız bu gelecek vaadedicidir. Eğer ilgilendiğiniz bir şey zorsa, özellikle [diğer insanlar için sizin için olduğundan daha zorsa](http://paulgraham.com/work.html) bu daha da gelecek vaadecidir. Ayrıca yetenekli insanların takıntıları daha gelecek vaadedici ve umut vericidir. Yetenekli biri rastegele bir şeye ilgi duyuyorsa o, o kadar da rastgele değildir.
 
+Ama asla emin olamazsınız. Aslında, eğer doğruysa endişe verici şöyle bir fikir var: büyük işler yapabilmek için çok fazla vakit harcamak zorundasınız.
+
+Birçok farklı alanda ödülle risk doğru orantılıdır. Eğer bu kural geçerliyse, o zaman büyük işlere öncülük edecek olan yolları bulmanın yolu göründüğü kadar ümitsiz olduğu ortaya çıkan şeyler için çabalamaktan geçer. 
+
+Bunun doğru olduğundan pek emin değilim. Bir yandan ilgilendiğiniz bir şey üzerinde sıkı çalışırken çok fazla vakit harcamak şaşırtıcı bir şekilde zor görünüyor. Ancak öte yandan risk ve ödül arasındaki ilişki o kadar güçlü görünüyor ki riskin oluştuğu her yerde geçerli gibi görünüyor. [Newton](http://paulgraham.com/disc.html)'un durumu, en azından, risk/ödül kuralının burada geçerli olduğunu gösteriyor. Newton eşi benzeri görülmeyen verimlilikte belirli bir takıntısıyla meşhurdur: dünyayı matematiği kullanarak tanımlamak. Ancak onun tamamen zaman kaybı gibi görünen iki takıntısı daha vardı: simya ve teoloji. O ise net bir şekilde önde bitirdi. Şimdilerde fizik dediğimize yatırdığı bahis o kadar fazlaydı ki diğer ikisini fazlasıyla telafi etmişti. Ancak diğer ikisi üzerinde böylesine büyük keşifler yapmak için büyük riskler alması gerekli miydi? Bilmiyorum.
+
+İşte endişe edici bir fikir daha: biri tüm kötü bahisleri yapabilir mi? Bu büyük ihtimalle sıklıkla yaşanıyordur ancak bunu yaşayan insanlar ünlü olmadığı için ne kadar sıklıkla olduğunu bilemiyoruz.
+
+Bu yalnızca izlenen bir yolun getirilerini tahmin etmenin zorluğu değildir. Onlar zamanla önemli ölçüde değişebilirler. Örneğin 1830 doğa tarihine takıntılı bir ilgi duymak için gayet iyi bir zamandı. Eğer Darwin 1809 yerine 1709'da doğmuş olsaydı adını hiç duymayabilirdik.
+
 
 
 [1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir.
 
 [2] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
+ 
