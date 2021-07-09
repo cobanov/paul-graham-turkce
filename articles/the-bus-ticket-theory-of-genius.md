@@ -24,9 +24,9 @@ Ancak Ramanujan ile bir otobüs bileti koleksiyoneri arasında elbet farklılık
 
 Eğer bir cümlede bir dehanın tarifini yapmam gerekseydi o bu olurdu: önemli şeylere kâr amacı taşımadan takıntılı olmak.
 
-Diğer iki malzemeyi unutmuyor muyum? *Düşündüğünüzden daha az*. Bir konuya takıntılı ilgi hem kabiliyetin temsilcisidir hem de kararlılığın yerine geçer. Eğer yeterli matematik yeteneğiniz yoksa serileri ilginç bulmazsınız. Ayrıca bir şeye takıntılı derecede ilgi duyduğunuzda çok fazla kararlılığa ihtiyacınız olmaz. Merak sizi kendine çekerken kendinizi ona ittirmenize gerek yoktur. 
+Diğer iki malzemeyi unutmuyor muyum? Düşündüğünüzden daha az. Bir konuya takıntılı ilgi hem kabiliyetin temsilcisidir hem de kararlılığın yerine geçer. Eğer yeterli matematik yeteneğiniz yoksa serileri ilginç bulmazsınız. Ayrıca bir şeye takıntılı derecede ilgi duyduğunuzda çok fazla kararlılığa ihtiyacınız olmaz. Merak sizi kendine çekerken kendinizi ona ittirmenize gerek yoktur. 
 
-Bir takıntılı ilgi size yapabileceği ölçüde şans bile getirebilir. Şans Pasteur'ün dediği gibi hazırlıklı zihinden yanadır ve *takıntılı bir zihinde bir şey varsa o da hazırlıktır.*
+Bir takıntılı ilgi size yapabileceği ölçüde şans bile getirebilir. Şans Pasteur'ün dediği gibi hazırlıklı zihinden yanadır ve eğer ortada takıntılı bir zihin varsa o da hazırlıklıdır.
 
 Bu tür bir takıntının en önemli özelliği kâr amacı taşımamasıdır. Sadece istekliliğe karşı filtre olduğu için değil, aynı zamanda yeni fikirler keşfetmenize yardımcı olur.
 
@@ -40,7 +40,7 @@ Otobüs bileti teorisi, Carlyle'ın dehanın sonsuz derecede zahmete katlanmak o
 
 Peki önemli olan şey nedir? Asla tam olarak emin olamazsınız. Bu kesin olan bir şey çünkü hiçkimse size ilgi duyduğunuz şey üzerinde çalışarak yeni fikirler keşfedeceğiniz gelecek vaadeden yolların hangileri olduğunu söyleyemez. 
 
-Ancak bir saplantının önemli olup olmadığını tahmin etmek için kullanabileceğiniz bazı yöntemler vardır. Örneğin başkasının ürettiği bir şeyi tüketmek yerine kendiniz üretiyorsanız bu gelecek vaadedicidir. Eğer ilgilendiğiniz bir şey zorsa, özellikle [diğer insanlar için sizin için olduğundan daha zorsa](http://paulgraham.com/work.html) bu daha da gelecek vaadecidir. Ayrıca yetenekli insanların takıntıları daha gelecek vaadedici ve umut vericidir. Yetenekli biri rastegele bir şeye ilgi duyuyorsa o, o kadar da rastgele değildir.
+Ancak bir saplantının önemli olup olmadığını tahmin etmek için kullanabileceğiniz bazı yöntemler vardır. Örneğin başkasının ürettiği bir şeyi tüketmek yerine kendiniz üretiyorsanız bu gelecek vaadedicidir. Eğer ilgilendiğiniz bir şey zorsa, özellikle [diğer insanlar için sizin için olduğundan daha zorsa](http://paulgraham.com/work.html) bu daha da gelecek vaadedicidir. Ayrıca yetenekli insanların takıntıları daha gelecek vaadedici ve umut vericidir. Yetenekli biri rastegele bir şeye ilgi duyuyorsa o, o kadar da rastgele değildir.
 
 Ama asla emin olamazsınız. Aslında, eğer doğruysa endişe verici şöyle bir fikir var: büyük işler yapabilmek için çok fazla vakit harcamak zorundasınız.
 
