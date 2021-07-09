@@ -16,7 +16,7 @@ Bu noktayı açıklarken bir grup insanla aramdaki saygınlığı kaybetmem gere
 
 Bu da bizi bu tür bir takıntının ikinci özelliğine götürür: bir amacın olmaması. Bir otobüs bileti koleksiyoncusunun sevgisi bir kâr amacı taşımaz. Bunu bizi etkilemek ya da zengin olmak için değil kendi mutlulukları için yapıyorlar.
 
-Harika işler başarmış insanların hayatlarına baktığınızda tutarlı bir kalıp görürsünüz. Genellikle bir otobüs bileti koleksiyoncusunun akranlarının çoğuna amaçsız, argo bir tabirle işsiz gibi görünen bir şeye saplantılı ilgileriyle başlarlar. Darwin'in Beagle ile yaptığı yolculukla ilgili kitabının en çarpıcı özelliklerinden biri, onun doğa tarihine duyduğu derin ilgidir. Onun bu ilgisi sonsuz gibi görünürdü. Aynı şekilde Romanujan[1] da saatlerce oturarak arduvazı[2] üzerinde serilere neler olduğu üzerinde çalışırdı.  
+Büyük işler başarmış insanların hayatlarına baktığınızda tutarlı bir kalıp görürsünüz. Genellikle bir otobüs bileti koleksiyoncusunun akranlarının çoğuna amaçsız, argo bir tabirle işsiz gibi görünen bir şeye saplantılı ilgileriyle başlarlar. Darwin'in Beagle ile yaptığı yolculukla ilgili kitabının en çarpıcı özelliklerinden biri, onun doğa tarihine duyduğu derin ilgidir. Onun bu ilgisi sonsuz gibi görünürdü. Aynı şekilde Romanujan[1] da saatlerce oturarak arduvazı[2] üzerinde serilere neler olduğu üzerinde çalışırdı.  
 
 Onların bunu daha sonraki keşiflerine "zemin hazırlamak" için yaptıklarını düşünmek büyük bir hata olacaktır. Bu metafor çok farklı maksatlar da barındırır. Tıpkı otobüs bileti koleksiyoncuları gibi onlar bunu yapıyorlar çünkü bunu yapmayı seviyorlar.
 
@@ -28,7 +28,22 @@ Diğer iki malzemeyi unutmuyor muyum? *Düşündüğünüzden daha az*. Bir konu
 
 Bir takıntılı ilgi size yapabileceği ölçüde şans bile getirebilir. Şans Pasteur'ün dediği gibi hazırlıklı zihinden yanadır ve *takıntılı bir zihinde bir şey varsa o da hazırlıktır.*
 
+Bu tür bir takıntının en önemli özelliği kâr amacı taşımamasıdır. Sadece istekliliğe karşı filtre olduğu için değil, aynı zamanda yeni fikirler keşfetmenize yardımcı olur.
+
+Yeni fikirlere öncelik eden yollar gelecek vaadetmiyor gibi görünür. Eğer gelecek vaadetseydi olsaydı diğer insanlar onu çoktan keşfederdi. Büyük işler yapan insanlar, başkalarının gözden kaçırdığı bu yolları nasıl keşfeder? Onlar hakkındaki popüler efsane basitçe daha iyi görüşe sahip olmaları: onlar çok yetenekli böylece başkalarının kaçırdığı yolları görebilirler. Ancak büyük keşiflerin nasıl yapıldığına baktığınızda öyle olmadığını fark edersiniz. Darwin bireysel türlere büyük bir keşife yol açacağını gördüğü ve başkası yapmadığı için ilgi göstermedi. O bu tür şeylere gerçekten ama gerçekten ilgiliydi. 
+
+Darwin onu kapatamazdı. Ramanujan da. Onlar gizli yolları gelecek vaadediyor göründüğü için keşfetmediler ama yardım edemedikleri için keşfettiler. Sadece hırslı birinin görmezden geleceği yolları izlemelerine izin veren şey buydu.
+
+Hangi akıl sahibi insan iyi bir roman yazmanın yolunun Tolkien gibi yıllarını hayalı bir elf dili oluşturmaktan ya da Trollope gibi Kuzebatı Britanya'daki tüm evleri ziyaret etmekten geçeceğini bilebilir ki? Tolkien ve Trollope dahil hiçkimse bilemezdi.
+
+Otobüs bileti teorisi, Carlyle'ın dehanın sonsuz derecede zahmete katlanmak olduğu tanımına çok benzer fakat arada iki fark var. Otobüs bileti teorisi, zahmete katlanmak için bu sonsuz kapasitenin kaynağının Carlyle'ın kast ettiği gibi bitmek bilmeyen gayretin değil koleksiyonerlerin sahip olduğu türden ilginin olduğunu açıklığa kavuşturur. Aynı zamanda önemli bir nitelik katar: önemli bir şey hakkında zahmete katlanabilecek sonsuz kapasite.
+
+Peki önemli olan şey nedir? Asla tam olarak emin olamazsınız. Bu kesin olan bir şey çünkü hiçkimse size ilgi duyduğunuz şey üzerinde çalışarak yeni fikirler keşfedeceğiniz gelecek vaadeden yolların hangileri olduğunu söyleyemez. 
+
+Ancak bir saplantının önemli olup olmadığını tahmin etmek için kullanabileceğiniz bazı yöntemler vardır. Örneğin başkasının ürettiği bir şeyi tüketmek yerine kendiniz üretiyorsanız bu gelecek vaadedicidir. Eğer ilgilendiğiniz bir şey zorsa, özellikle [diğer insanlar için sizin için olduğundan daha zorsa](http://paulgraham.com/work.html) bu daha da gelecek vaadecidir. Ayrıca yetenekli insanların takıntıları daha gelecek vaadedici ve umut vericidir. Yetenekli biri rastegele bir şeye ilgi duyuyorsa o, o kadar da rastgele değildir.
+
 
 
 [1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir.
+
 [2] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
