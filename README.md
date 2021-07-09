@@ -13,7 +13,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Mert Cobanov](https://github.com/cobanov/)| 2 |
 |[Fethi Tekyaygil](https://github.com/TekyaygilFethi)|1|
 |[Eylül Kırdak](https://github.com/eylulkirdak/)| 1 |
-|[Mustafa Enes Güneruz](https://github.com/menesguneruz) |2|
+|[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
 
 ## Çevirilen Yazılar  
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
