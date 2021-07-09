@@ -1,4 +1,4 @@
-# THE REAL REASON TO END THE DEATH PENALTY
+# The Real Reason to End the Death Penalty
 
 Kaynak: [http://paulgraham.com/real.html](http://paulgraham.com/real.html)
 
