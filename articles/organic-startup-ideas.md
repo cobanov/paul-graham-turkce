@@ -1,9 +1,9 @@
 # Organic Startup Ideas
-Kaynak: http://paulgraham.com/organic.html<br>
+**Kaynak:** [http://paulgraham.com/organic.html](http://paulgraham.com/organic.html)
 
-Yazar: Paul Graham <br>
+**Yazar:** Paul Graham 
 
-Çeviren: İrem Kömürcü <br>
+**Çeviren:** İrem Kömürcü
 
 ## Türkçe
 Nisan 2010
