@@ -16,6 +16,8 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
 |[Ayşe Nur Erdem](https://github.com/er-ay) |1|
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
+|[Mustafa Durmuş](https://github.com/mdurmuss) |1|
+
 
 ## Çevirilen Yazılar  
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
@@ -27,6 +29,10 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
+- [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
+
+
 ---
 
 ## Katkıda Bulunun
