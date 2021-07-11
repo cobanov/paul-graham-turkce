@@ -4,6 +4,23 @@
 
 Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçeye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
 
+
+## Çevirilen Yazılar  
+- [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
+- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
+- [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
+- [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
+- [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
+- [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
+- [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
+- [Organic Startup Ideas - Organik Startup Fikirleri](articles/organic-startup-ideas.md)
+- [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
+- [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
+- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
+- [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
+- [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
+
 ## Çevirmenler
 
 Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
@@ -21,23 +38,6 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[İrem Akyol](https://github.com/lastirembender) |1|
 |[Vusal Ismayilov](https://github.com/woosal1337) |1|
 |[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
-
-
-## Çevirilen Yazılar  
-- [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
-- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
-- [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
-- [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
-- [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
-- [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
-- [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
-- [Organic Startup Ideas - Organik Startup Fikirleri](articles/organic-startup-ideas.md)
-- [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
-- [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
-- [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
-- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
-- [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
-- [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 
 ---
 
