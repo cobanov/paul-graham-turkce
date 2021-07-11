@@ -22,7 +22,7 @@ Onların bunu daha sonraki keşiflerine "zemin hazırlamak" için yaptıkların�
 
 Ancak Ramanujan ile bir otobüs bileti koleksiyoneri arasında elbet farklılıklar vardır. Seriler önemlidir ama otobüs biletleri o kadar da önemli değildir.
 
-Eğer bir cümlede bir dahinin tarifini yapmam gerekseydi o bu olurdu: Önemli şeylere kâr amacı taşımadan takıntılı olmak.
+Eğer bir cümlede bir dehanın tarifini yapmam gerekseydi o bu olurdu: Önemli şeylere kâr amacı taşımadan takıntılı olmak.
 
 Diğer iki malzemeyi unutmuyor muyum? Düşündüğünüzden daha az. Bir konuya takıntılı ilgi hem kabiliyetin temsilcisidir hem de kararlılığın yerine geçer. Eğer yeterli matematik yeteneğiniz yoksa serileri ilginç bulmazsınız. Ayrıca bir şeye takıntılı derecede ilgi duyduğunuzda çok fazla kararlılığa ihtiyacınız olmaz. Merak sizi kendine çekerken kendinizi ona itmenize gerek yoktur. 
 
@@ -60,7 +60,7 @@ Otobüs bileti teorisiyle ilgili ilginç bir şey de, farklı türden insanları
 
 Otobüs bileti teorisi ayrıca insanların neden çocuk sahibi olduktan sonra büyük işler yapma olasılığının azaldığını açıklar. Burada ilgi sadece dış engellerle değil çoğu insan için son derece güçlü olan başka bir ilgiyle rekabet etmek zorunda kalır. Çocuk olduktan sonra çalışmaya zaman ayırmak zorlaşır ancak bu işin kolay kısmıdır. Değişen asıl şey, sizin uğraştığınız şeyle daha fazla ilgilenmek istememenizdir.
 
-Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak için cesaretlendirmenin yollarını önermesidir. Eğer dahinin tarifi doğal yetenek + sıkı çalışmak ise yapabileceğimiz tek şey çok yetenekli olduğumuzu umut etmek ve elimizden geldiğince çok çalışmaktır. Eğer ilgi, tarifin gizli malzemesiyse ilgiyi geliştirerek bir dahi yetiştirebiliriz.
+Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak için cesaretlendirmenin yollarını önermesidir. Eğer dehanın tarifi doğal yetenek + sıkı çalışmak ise yapabileceğimiz tek şey çok yetenekli olduğumuzu umut etmek ve elimizden geldiğince çok çalışmaktır. Eğer ilgi, tarifin gizli malzemesiyse ilgiyi geliştirerek bir dahi yetiştirebiliriz.
 
 Örneğin çok hırslı olanlar için otobüs bileti teorisi büyük işler yapmanın yolunun biraz rahatlamaktan geçtiğini öne sürüyor. Dişinizi sıkıp akranlarınızın hemfikir olduğu gelecek vaadeden araştırma alanını takip etmek yerine belki de bir şeyleri sadece eğlencesine denemelisiniz. Eğer takılıp kalırsanız bu içinden çıkacağınız bir yol olabilir. 
 
