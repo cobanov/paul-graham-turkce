@@ -17,6 +17,10 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Ayşe Nur Erdem](https://github.com/er-ay) |1|
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
 |[Mustafa Durmuş](https://github.com/mdurmuss) |1|
+|[İrem Komurcu](https://github.com/irem-komurcu) |1|
+|[İrem Akyol](https://github.com/lastirembender) |1|
+|[Vusal Ismayilov](https://github.com/woosal1337) |1|
+|[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
 
 
 ## Çevirilen Yazılar  
@@ -26,12 +30,14 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
 - [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
 - [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
-- [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
-- [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [Organic Startup Ideas - Organik Startup Fikirleri](articles/organic-startup-ideas.md)
 - [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
+- [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
+- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
+- [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
-
 
 ---
 
