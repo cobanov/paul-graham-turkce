@@ -55,7 +55,7 @@ Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin ister
 
 ### Ufak bir rica
 
-Çeviriler tamamen gönüllülük esaslı bu yüzden otomatik çeviri göndermemenizi rica ediyoruz, otomatik çeviri yapsanız dahi sonrasında dile uygunluğunu sesli bir şekilde kendinize okuyarak test edip düzelterek gönderin, gönderilen tüm çeviriler son bir kontrolden sonra repoya eklenecektir.
+Çeviriler tamamen gönüllülük esaslı bu yüzden otomatik çeviri göndermemenizi rica ediyoruz, otomatik çeviri yapsanız dahi sonrasında dile uygunluğunu sesli bir şekilde kendinize okuyarak test edip düzelterek gönderin, gönderilen tüm çeviriler son bir kontrolden sonra repoya eklenecektir. Conflictleri engellemek adına  readme dosyasını ben sizin için güncelleyeceğim, repoya sadece çevirinizi markdown formatında atmanız yeterli :)
 
 ## İzinler
 Bu proje için Paul Graham ile direkt temasa geçildi ve gerekli tüm izinleri bize verdiği için çok mutluyum.
