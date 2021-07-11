@@ -78,7 +78,8 @@ Bunun bir etkisi olacak mı? Hiçbir fikrim yok ancak bu belirsizlik, hepsinin e
 
 [1] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
  
- ## Orijinal
+ 
+## Orijinal
 
 November 2019
 
