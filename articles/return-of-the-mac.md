@@ -10,7 +10,7 @@
 
 Mart 2005
 
-Tanıdığım en iyi [hackerlar](http://paulgraham.com/gba.html)'ın hepsi yavaş yavaş Mac bilgisayarlara geçiyorlar. Arkadaşım Robert MIT'deki araştırma grubunun tamamının yakın zamanda kendilerine Powerbook satın aldıklarını söyledi. Bu adamlar Apple'ın dibe vurduğu 1990'ların ortalarında Mac satın alan grafik tasarımcılar ve büyükanneler değil. Onlar olabildiğince sıkı işletim sistemi hackerları.
+Tanıdığım en iyi [hackerların](http://paulgraham.com/gba.html) hepsi yavaş yavaş Mac bilgisayarlara geçiyorlar. Arkadaşım Robert MIT'deki araştırma grubunun tamamının yakın zamanda kendilerine Powerbook satın aldıklarını söyledi. Bu adamlar Apple'ın dibe vurduğu 1990'ların ortalarında Mac satın alan grafik tasarımcılar ve büyükanneler değil. Onlar olabildiğince sıkı işletim sistemi hackerları.
 
 Sebebi, elbette, OS X. Powerbook'lar güzel tasarlanmış ve FreeBSD'yi çalıştırırlar. Daha ne bilmeye ihtiyacın var ki?
 
