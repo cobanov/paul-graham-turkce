@@ -22,7 +22,7 @@ Onların bunu daha sonraki keşiflerine "zemin hazırlamak" için yaptıkların�
 
 Ancak Ramanujan ile bir otobüs bileti koleksiyoneri arasında elbet farklılıklar vardır. Seriler önemlidir ama otobüs biletleri o kadar da önemli değildir.
 
-Eğer bir cümlede bir dehanın tarifini yapmam gerekseydi o bu olurdu: Önemli şeylere kâr amacı taşımadan takıntılı olmak.
+Eğer bir cümlede bir dahinin tarifini yapmam gerekseydi o bu olurdu: Önemli şeylere kâr amacı taşımadan takıntılı olmak.
 
 Diğer iki malzemeyi unutmuyor muyum? Düşündüğünüzden daha az. Bir konuya takıntılı ilgi hem kabiliyetin temsilcisidir hem de kararlılığın yerine geçer. Eğer yeterli matematik yeteneğiniz yoksa serileri ilginç bulmazsınız. Ayrıca bir şeye takıntılı derecede ilgi duyduğunuzda çok fazla kararlılığa ihtiyacınız olmaz. Merak sizi kendine çekerken kendinizi ona itmenize gerek yoktur. 
 
@@ -36,7 +36,7 @@ Darwin bu ilgisini kapatamazdı. Ramanujan da. Onlar gizli yolları gelecek vaad
 
 Hangi akıl sahibi insan iyi bir roman yazmanın yolunun Tolkien gibi yıllarını hayali bir elf dili oluşturmaktan ya da Trollope gibi Kuzebatı Britanya'daki tüm evleri ziyaret etmekten geçeceğini bilebilir ki? Tolkien ve Trollope dahil hiçkimse bilemezdi.
 
-Otobüs bileti teorisi, Carlyle'ın dehanın sonsuz derecede zahmete katlanmak olduğu tanımına çok benzer fakat arada iki fark vardır. Otobüs bileti teorisi, zahmete katlanmak için bu sonsuz kapasitenin kaynağının Carlyle'ın kast ettiği gibi bitmek bilmeyen gayretin değil koleksiyonerlerin sahip olduğu türden bir ilginin olduğunu açıklığa kavuşturur. Aynı zamanda önemli bir nitelik katar: Önemli bir şey hakkında zahmete katlanabilecek sonsuz kapasite.
+Otobüs bileti teorisi, Carlyle'ın dehanın zahmete katlanmak için sonsuz derecede kapasite olduğu meşhur tanımına çok benzer fakat arada iki fark vardır. Otobüs bileti teorisi, zahmete katlanmak için bu sonsuz kapasitenin kaynağının Carlyle'ın kast ettiği gibi bitmek bilmeyen gayretin değil koleksiyonerlerin sahip olduğu türden bir ilginin olduğunu açıklığa kavuşturur. Aynı zamanda önemli bir nitelik katar: Önemli bir şey hakkında zahmete katlanabilecek sonsuz kapasite.
 
 Peki önemli olan şey nedir? Asla tam olarak emin olamazsınız. Bu kesin olan bir şey çünkü hiçkimse size ilgi duyduğunuz şey üzerinde çalışarak yeni fikirler keşfedeceğiniz gelecek vaadeden yolların hangileri olduğunu söyleyemez. 
 
@@ -52,7 +52,7 @@ Bunun doğru olduğundan pek emin değilim. Bir yandan ilgilendiğiniz bir şey 
 
 Bu yalnızca izlenen bir yolun getirilerini tahmin etmenin zorluğu değildir. Onlar zamanla önemli ölçüde değişebilirler. Örneğin 1830 doğa tarihine takıntılı bir ilgi duymak için gayet iyi bir zamandı. Eğer Darwin 1809 yerine 1709'da doğmuş olsaydı adını hiç duymayabilirdik.
 
-Böyle bir belirsizlik karşısında ne yapılabilir? Birinci çözüm iddiamızı kısıtlamak, bu durumda bu kendi özel takıntılarınız yerine açıkça gelecek vaadeden yolları takip etmek anlamına gelir. Her kısıtlamada olduğu gibi bu durumda da riski azaltarak ödülü azaltmış olursunuz. Geleneksel olarak daha iddialı bir yol izlemek için sevdiğiniz şey üzerinde çalışmaktan vazgeçerseniz keşfedebileceğiniz harika bir şeyi kaçırabilirsiniz. Bu da her zaman yaşanmak zorunda belki her iddiası başarısız olmuş bir dehadan bile daha sıklıkla. 
+Böyle bir belirsizlik karşısında ne yapılabilir? Birinci çözüm iddiamızı kısıtlamak, bu durumda bu kendi özel takıntılarınız yerine açıkça gelecek vaadeden yolları takip etmek anlamına gelir. Her kısıtlamada olduğu gibi bu durumda da riski azaltarak ödülü azaltmış olursunuz. Geleneksel olarak daha iddialı bir yol izlemek için sevdiğiniz şey üzerinde çalışmaktan vazgeçerseniz keşfedebileceğiniz harika bir şeyi kaçırabilirsiniz. Bu da her zaman yaşanmak zorunda belki her iddiası başarısız olmuş bir dahiden bile daha sıklıkla. 
 
 Diğer bir çözüm ise kendinize farklı ilgi alanlarına ilgi duymak için izin vermektir. Eğer şimdiye kadar işe yarıyor gibi görünen eşit derecede samimi ilgi alanlarınız arasında geçiş yaparsanız yükselişinizi azaltmazsınız. Ancak şöyle de bir tehlike vardır: Çok farklı projelerde çalışırsanız hiçbirinde derinleşemeyebilirsiniz. 
 
@@ -60,7 +60,7 @@ Otobüs bileti teorisiyle ilgili ilginç bir şey de, farklı türden insanları
 
 Otobüs bileti teorisi ayrıca insanların neden çocuk sahibi olduktan sonra büyük işler yapma olasılığının azaldığını açıklar. Burada ilgi sadece dış engellerle değil çoğu insan için son derece güçlü olan başka bir ilgiyle rekabet etmek zorunda kalır. Çocuk olduktan sonra çalışmaya zaman ayırmak zorlaşır ancak bu işin kolay kısmıdır. Değişen asıl şey, sizin uğraştığınız şeyle daha fazla ilgilenmek istememenizdir.
 
-Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak için cesaretlendirmenin yollarını önermesidir. Eğer dehanın tarifi doğal yetenek + sıkı çalışmak ise yapabileceğimiz tek şey çok yetenekli olduğumuzu umut etmek ve elimizden geldiğince çok çalışmaktır. Eğer ilgi, tarifin gizli malzemesiyse ilgiyi geliştirerek bir dehayı yetiştirebiliriz.
+Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak için cesaretlendirmenin yollarını önermesidir. Eğer dahinin tarifi doğal yetenek + sıkı çalışmak ise yapabileceğimiz tek şey çok yetenekli olduğumuzu umut etmek ve elimizden geldiğince çok çalışmaktır. Eğer ilgi, tarifin gizli malzemesiyse ilgiyi geliştirerek bir dahi yetiştirebiliriz.
 
 Örneğin çok hırslı olanlar için otobüs bileti teorisi büyük işler yapmanın yolunun biraz rahatlamaktan geçtiğini öne sürüyor. Dişinizi sıkıp akranlarınızın hemfikir olduğu gelecek vaadeden araştırma alanını takip etmek yerine belki de bir şeyleri sadece eğlencesine denemelisiniz. Eğer takılıp kalırsanız bu içinden çıkacağınız bir yol olabilir. 
 
