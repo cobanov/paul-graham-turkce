@@ -19,6 +19,8 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
 - [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
+- [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
+- [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
 
 ## Katkıda Bulunun
