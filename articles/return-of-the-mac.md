@@ -12,35 +12,35 @@ Mart 2005
 
 Tanıdığım en iyi [hackerlar](http://paulgraham.com/gba.html)'ın hepsi yavaş yavaş Mac bilgisayarlara geçiyorlar. Arkadaşım Robert MIT'deki araştırma grubunun tamamının yakın zamanda kendilerine Powerbook satın aldıklarını söyledi. Bu adamlar Apple'ın dibe vurduğu 1990'ların ortalarında Mac satın alan grafik tasarımcılar ve büyükanneler değil. Onlar olabildiğince sıkı işletim sistemi hackerları.
 
-Sebebi, elbette, OS X. Powerbook'lar güzel tasarlanmış ve FreeBSD'yi çalıştırırlar. Daha ne bilmeye ihtiyacın var?
+Sebebi, elbette, OS X. Powerbook'lar güzel tasarlanmış ve FreeBSD'yi çalıştırırlar. Daha ne bilmeye ihtiyacın var ki?
 
 Geçen yılın sonunda bir powerbook aldım. IBM Thinkpad bilgisayarımın hard diski kısa süre sonra öldüğünde ise tek dizüstü bilgisayarım powerbook oldu. Arkadaşım Trevor geçenlerde evime geldiğinde [benimkinin aynısı](http://paulgraham.com/tlbmac.html) bir Powerbook taşıyordu.
 
 Birçoğumuz için bu bir Apple'a geçiş değil, bir geri dönüş. 1990'ların ortalarında buna inanmak ne kadar zor olsa da Mac, kendi zamanında kuralcı hackerların bilgisayarıydı.
 
-1983'ün sonbaharında, üniversitedeki bilgisayar bilimleri sınıflarımdan birindeki bir profesör ayağa kalktı ve bir peygamber gibi, yakında işlemci gücü yarım MIPS olacak, bir uçak koltuğunun altına sığacak ve o kadar az maliyetli olacak ki yaz işinden bir tane satın almaya yetecek kadar tasarruf edebileceğimiz bir bilgisayarı duyurdu. Bütün sınıf nefesini tuttu. Ve Mac göründüğünde, umduğumuzdan da iyiydi. Söz verildiği gibi küçük, güçlü ve ucuzdu. Ama aynı zamanda bir bilgisayarın olabileceğini asla düşünmediğimiz bir şeydi: inanılmaz derecede iyi [tasarlanmış](http://paulgraham.com/taste.html)
+1983'ün sonbaharında, üniversitedeki bilgisayar bilimleri sınıflarımdan birindeki bir profesör ayağa kalktı ve bir peygamber gibi, yakında işlemci gücü yarım MIPS olacak, bir uçak koltuğunun altına sığacak ve o kadar az maliyetli olacak ki yaz işinden bir tane satın almaya yetecek kadar tasarruf edebileceğimiz bir bilgisayarı duyurdu. Bütün sınıf nefesini tuttu. Ve Mac göründüğünde, umduğumuzdan da iyiydi. Söz verildiği gibi küçük, güçlü ve ucuzdu. Ama aynı zamanda bir bilgisayarın olabileceğini asla düşünmediğimiz bir şeydi: inanılmaz derecede iyi [tasarlanmış](http://paulgraham.com/taste.html).
 
-Bir tane almalıydım. Ve yalnız değildim. 1980'lerin ortalarından sonuna kadar, tanıdığım tüm bilgisayar korsanları ya Mac için yazılım yazıyor ya da yazmak istiyorlardı. Cambridge'deki her futon kanepede aynı kalın beyaz kitap açık bir şekilde yatıyor gibiydi. Eğer kitabı ters çevirirsen, "Macintosh'un İçinde" yazıyordu.
+Bir tane almalıydım. Ve bu konuda yalnız değildim. 1980'lerin ortalarından sonuna kadar, tanıdığım tüm hackerlar ya Mac için yazılım yazıyor ya da yazmak istiyorlardı. Cambridge'deki her futon kanepede aynı kalın beyaz kitap açık bir şekilde yatıyor gibiydi. Eğer kitabı ters çevirirsen, "Macintosh'un İçinde" yazıyordu.
 
 Ardından Linux ve FreeBSD geldi ve nereye giderse gitsin en güçlü işletim sistemini takip eden hackerlar kendilerini Intel'e geçerken buldular. Tasarıma önem veriyorsanız ve Intel ve Microsoft [etiketlerini](http://paulgraham.com/designedforwindows.html) ön taraftan çıkarabilseydiniz, en azından aktif olarak itici olmayan bir Thinkpad satın alabilirdiniz. [1]
 
-OS X ile beraber hackerlar geri döndü. Cambridge'deki Apple mağazasına girdiğimde, bu eve gelmek gibiydi. Çok şey değişti ama hala havada Apple havalılığı vardı, şovun rastgele kurumsal anlaşma yapıcılar yerine gerçekten umursayan biri tarafından yönetildiği hissi.
+OS X ile beraber hackerlar geri döndü. Cambridge'deki Apple mağazasına girdiğimde, bu eve gelmek gibiydi. Çok şey değişti ama hala havada Apple havalılığı vardı, şovun rastgele kurumsal anlaşma bağlayıcılar yerine gerçekten umursayan biri tarafından yönetildiği hissi.
 
 İş dünyası "ne olmuş yani?" diyebilir. Hackerların Apple'ı tekrar sevmesi kimin umurunda? Sonuçta hacker pazarı ne kadar büyük?
 
 Oldukça küçük ama boyutuna göre orantısız derecede önemli. Bilgisayarlar söz konusu olduğunda, hackerların şimdi yaptığını, on yıl içinde herkes yapacak. Unix'ten bit dizili ekranlara ve Web'e kadar neredeyse tüm teknolojiler, ilk olarak bilgisayar bilimleri departmanları ve araştırma laboratuvarlarında popüler hale geldi ve yavaş yavaş dünyanın geri kalanına yayıldı.
 
-1986'da babama, Sun adında ciddi bir Unix makinesi ama bir o kadar küçük ve ucuz olan yeni bir bilgisayar türü olduğunu ve tek bir merkezi Vax'a bağlı bir VT100'ün yerine bunun önünde oturmak için birine sahip olabileceğini söylediğimi hatırlıyorum. Belki de bu şirketten hisse alması gerektiğini önerdim. Bence gerçekten dinlemiş olmayı dilerdi.
+1986'da babama, Sun adında, ciddi bir Unix makinesi ama bir o kadar küçük ve ucuz olan yeni bir bilgisayar türü olduğunu ve tek bir merkezi Vax'a bağlı bir VT100'ün yerine bunun önünde oturmak için birine sahip olabileceğini söylediğimi hatırlıyorum. Belki de bu şirketten hisse alması gerektiğini önerdim. Bence gerçekten dinlemiş olmayı dilerdi.
 
 1994'te arkadaşım Koling Tayvan'daki kız arkadaşıyla konuşmak istedi ve uzun mesafe faturalarından kurtulmak için sesi İnternet üzerinden gönderilebilecek veri paketlerine dönüştürecek bir yazılım yazdı. O zamanlar bunun hâlâ yarı-hükümet varlığı olan internet'in doğru kullanımı olup olmadığından emin değildik. Yaptığı şeye artık VoIP deniyor ve bu çok büyük ve hızla büyüyen bir iş.
 
 Sıradan insanların on yıl içinde bilgisayarlarla ne yapacaklarını bilmek istiyorsanız, iyi bir üniversitede bilgisayar bilimleri bölümünü dolaşın. Onlar ne yapıyorsa, siz onu yapıyor olacaksınız.
 
-"Platformlar" konusunda bu eğilim daha da belirgindir, çünkü yeni yazılımlar [büyük hackerlardan]([great hackers](http://paulgraham.com/gh.html)) tarafından oluşturulur ve bu yazılımı ilk olarak kişisel kullandıkları bilgisayar için yazma eğilimindedirler. Ve yazılım donanımı satar. Apple II'nin ilk satışlarının en fazlası olmasa da çoğu, VisiCalc'ı çalıştırmak için bir tane satın alan kişilerden geldi. Ve neden Bricklin ve Frankston Apple II için VisiCalc'i yazdı? Çünkü kişisel olarak beğendiler. Bir yıldıza dönüştürmek için herhangi bir makineyi seçebilirlerdi.
+"Platformlar" konusunda bu eğilim daha da belirgindir, çünkü yeni yazılımlar [büyük hackerlardan](http://paulgraham.com/gh.html) tarafından oluşturulur ve bu yazılımı ilk olarak kişisel kullandıkları bilgisayar için yazma eğilimindedirler. Ve yazılım donanımı satar. Apple II'nin ilk satışlarının en fazlası olmasa da çoğu VisiCalc'ı çalıştırmak için bir tane satın alan kişilerden geldi. Ve neden Bricklin ve Frankston, VisiCalc'i Apple II için yazdı? Çünkü kişisel olarak beğendiler. Bir yıldıza dönüştürmek için herhangi bir makineyi seçebilirlerdi.
 
 Donanımınızı satacak bir yazılım yazmak için hackerları çekmek istiyorsanız, onu kendilerinin kullandığı bir şey yapmalısınız. "Açık" hale getirmek yeterli değil. Açık ve iyi olmalı.
 
-Ve Mac'ler tekrar açık ve iyi, sonunda. Aradan geçen yıllar, bildiğim kadarıyla emsali olm ayan bir durum yarattı: Apple, üst düzey ve alt düzeyde popüler, ancak ortalamada değil. Yetmiş yaşındaki annemin bir Mac dizüstü bilgisayarı var. Bilgisayar bilimlerinde doktorası olan arkadaşlarımın Mac dizüstü bilgisayarları var. [2] Yine de Apple'ın genel pazar payı hala küçük.
+Ve Mac'ler tekrar açık ve iyi, sonunda. Aradan geçen yıllar, bildiğim kadarıyla emsali olmayan bir durum yarattı: Apple, üst düzey ve alt düzeyde popüler, ancak ortalamada değil. Yetmiş yaşındaki annemin bir Mac dizüstü bilgisayarı var. Bilgisayar bilimlerinde doktorası olan arkadaşlarımın Mac dizüstü bilgisayarları var. [2] Yine de Apple'ın genel pazar payı hala küçük.
 
 Eşi benzeri görülmemiş olsa da, bu durumun da geçici olduğunu tahmin ediyorum.
 
