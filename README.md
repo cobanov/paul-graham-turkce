@@ -21,8 +21,6 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
 - [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
 - [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
-- [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
-- [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
 
 ## Katkıda Bulunun
