@@ -13,6 +13,8 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Mert Cobanov](https://github.com/cobanov/)| 2 |
 |[Fethi Tekyaygil](https://github.com/TekyaygilFethi)|1|
 |[Eylül Kırdak](https://github.com/eylulkirdak/)| 1 |
+|[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
+|[Ayşe Nur Erdem](https://github.com/er-ay) |1|
 
 ## Çevirilen Yazılar  
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
@@ -21,7 +23,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
 - [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
 - [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
-- [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
+
 
 ## Katkıda Bulunun
 
