@@ -16,7 +16,7 @@ Bu noktayı açıklarken bir grup insanla aramdaki saygınlığı kaybetmem gere
 
 Bu da bizi bu tür bir takıntının ikinci özelliğine götürür: bir amacın olmaması. Bir otobüs bileti koleksiyoncusunun sevgisi bir kâr amacı taşımaz. Bunu bizi etkilemek ya da zengin olmak için değil kendi mutlulukları için yapıyorlar.
 
-Büyük işler başarmış insanların hayatlarına baktığınızda tutarlı bir kalıp görürsünüz. Genellikle bir otobüs bileti koleksiyoncusunun akranlarının çoğuna amaçsız, argo bir tabirle işsiz gibi görünen bir şeye saplantılı ilgileriyle başlarlar. Darwin'in Beagle ile yaptığı yolculukla ilgili kitabının en çarpıcı özelliklerinden biri, onun doğa tarihine duyduğu derin ilgidir. Onun bu ilgisi sonsuz gibi görünürdü. Aynı şekilde Romanujan[1] da saatlerce oturarak arduvazı[2] üzerinde serilere neler olduğu üzerinde çalışırdı.  
+Büyük işler başarmış insanların hayatlarına baktığınızda tutarlı bir kalıp görürsünüz. Genellikle bir otobüs bileti koleksiyoncusunun akranlarının çoğuna amaçsız, argo bir tabirle işsiz gibi görünen bir şeye saplantılı ilgileriyle başlarlar. Darwin'in Beagle ile yaptığı yolculukla ilgili kitabının en çarpıcı özelliklerinden biri, onun doğa tarihine duyduğu derin ilgidir. Onun bu ilgisi sonsuz gibi görünürdü. Aynı şekilde Ramanujan da saatlerce oturarak arduvazı[1] üzerinde serilere neler olduğu üzerinde çalışırdı.  
 
 Onların bunu daha sonraki keşiflerine "zemin hazırlamak" için yaptıklarını düşünmek büyük bir hata olacaktır. Bu metafor çok farklı maksatlar da barındırır. Tıpkı otobüs bileti koleksiyoncuları gibi onlar bunu yapıyorlar çünkü bunu yapmayı seviyorlar.
 
@@ -66,9 +66,10 @@ Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak
 
 [Hamming](http://paulgraham.com/hamming.html)'in ünlü çift namlulu sorusunu her zaman sevmişimdir: Alanınızdaki en önemli problemler nelerdir ve neden bunlardan biri üzerinde çalışmıyorsunuz? Bu sizi kendinize getirmek için iyi bir yoldur ancak sizi biraz fazla zorlayabilir. En azından kendinize şunu sormanız faydalı olabilir: Muhtemelen önemli olmayacak ama gerçekten ilginç olacak bir şey üzerinde çalışmak için bir yıl izin alabilseydiniz bu ne olurdu? 
 
+Otobüs bileti teorisi aynı zamanda yaşlandıkça yavaşlamaktan kaçınmanın bir yolunu da önerir. Belki de yaşlandıkça insanların daha az yeni fikre sahip olmasının nedeni sadece avantajlarını kaybetmeleri değildir. Bunun nedeni bir kez yerleştikten sonra artık genç olduğunuz ve kimsenin ne yaptığınızı umursamadığı zamanlardaki gibi sorumsuz yan projelerle uğraşamamanız olabilir. 
+
+Çözüm gayet açıktır: sorumsuz kalmak. 
 
 
-[1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir. 
-
-[2] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
+[1] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
  
