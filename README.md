@@ -26,7 +26,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
-- [See Randomness - Rastlantısallığı Gör](articles)
+- [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
 ---
 
 ## Katkıda Bulunun
