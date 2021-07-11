@@ -36,7 +36,7 @@ Oldukça küçük ama boyutuna göre orantısız derecede önemli. Bilgisayarlar
 
 Sıradan insanların on yıl içinde bilgisayarlarla ne yapacaklarını bilmek istiyorsanız, iyi bir üniversitede bilgisayar bilimleri bölümünü dolaşın. Onlar ne yapıyorsa, siz onu yapıyor olacaksınız.
 
-"Platformlar" konusunda bu eğilim daha da belirgindir, çünkü yeni yazılımlar [büyük hackerlardan](http://paulgraham.com/gh.html) tarafından oluşturulur ve bu yazılımı ilk olarak kişisel kullandıkları bilgisayar için yazma eğilimindedirler. Ve yazılım donanımı satar. Apple II'nin ilk satışlarının en fazlası olmasa da çoğu VisiCalc'ı çalıştırmak için bir tane satın alan kişilerden geldi. Ve neden Bricklin ve Frankston, VisiCalc'i Apple II için yazdı? Çünkü kişisel olarak beğendiler. Bir yıldıza dönüştürmek için herhangi bir makineyi seçebilirlerdi.
+"Platformlar" konusunda bu eğilim daha da belirgindir, çünkü yeni yazılımlar [büyük hackerlar](http://paulgraham.com/gh.html) tarafından oluşturulur ve bu yazılımı ilk olarak kişisel kullandıkları bilgisayar için yazma eğilimindedirler. Ve yazılım donanımı satar. Apple II'nin ilk satışlarının en fazlası olmasa da çoğu VisiCalc'ı çalıştırmak için bir tane satın alan kişilerden geldi. Ve neden Bricklin ve Frankston, VisiCalc'i Apple II için yazdı? Çünkü kişisel olarak beğendiler. Bir yıldıza dönüştürmek için herhangi bir makineyi seçebilirlerdi.
 
 Donanımınızı satacak bir yazılım yazmak için hackerları çekmek istiyorsanız, onu kendilerinin kullandığı bir şey yapmalısınız. "Açık" hale getirmek yeterli değil. Açık ve iyi olmalı.
 
