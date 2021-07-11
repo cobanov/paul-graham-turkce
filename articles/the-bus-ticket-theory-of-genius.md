@@ -10,7 +10,7 @@
 
 Kasım 2019
 
-Herkes iyi bir iş yapmanın doğal yetenek ve kararlılık grektirdiğini bilir fakat herkesin tam olarak kavrayamadığı üçüncü bir etmen daha vardır: belirli bir konuya takıntılı ilgi.
+Herkes büyük bir iş yapmanın doğal yetenek ve kararlılık gerektirdiğini bilir fakat herkesin tam olarak kavrayamadığı üçüncü bir etmen daha vardır: belirli bir konuya takıntılı ilgi.
 
 Bu noktayı açıklarken bir grup insanla aramdaki saygınlığı kaybetmem gerek ve bunun için otobüs bileti koleksiyoncularını seçeceğim. Onlar eski otobüs biletlerini toplayıp saklayan insanlar. Birçok koleksiyoncu gibi onların da topladıkları şeylerin ince ayrıntılarına karşı takıntı derecesinde ilgileri var. Diğer insanlar için hatırlanması zor olan farklı bilet türleri arasındaki ayrımı onlar fark edebilir ve hatırlayabilirler. Çünkü bunu yeterince umursamıyoruz. Eski otobüs biletleri hakkında bu kadar düşünerek zaman harcamanın nasıl bir amacı var ki?
 
@@ -56,8 +56,19 @@ Böyle bir belirsizlik karşısında ne yapılabilir? Birinci çözüm iddiamız
 
 Diğer bir çözüm ise kendinize farklı ilgi alanlarına ilgi duymak için izin vermektir. Eğer şimdiye kadar işe yarıyor gibi görünen eşit derecede samimi ilgi alanlarınız arasında geçiş yaparsanız yükselişinizi azaltmazsınız. Ancak şöyle de bir tehlike vardır: Çok farklı projelerde çalışırsanız hiçbirinde derinleşemeyebilirsiniz. 
 
+Otobüs bileti teorisiyle ilgili ilginç bir şey de, farklı türden insanların neden farklı işlerde başarılı olduklarını açıklamaya yardımcı olabilmesidir. İlgi, yetenekten çok daha heterojen bir şekilde dağılmıştır. Eğer büyük bir iş yapmak için ihtiyacınız olan tek şey yetenekse ve yetenek eşit şekilde dağıtılmışsa çeşitli alanlarda gerçekten büyük işler yapanlar kişiler arasında gördüğümüz çarpık dağılımları açıklamak için ayrıntılı teoriler geliştirmeniz gerekir. Belki çoğu çarpıklığın çok daha basit bir açıklaması vardır: farklı insanlar farklı şeylere ilgilidir.
 
-[1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir.
+Otobüs bileti teorisi ayrıca insanların neden çocuk sahibi olduktan sonra büyük işler yapma olasılığının azaldığını açıklar. Burada ilgi sadece dış engellerle değil çoğu insan için son derece güçlü olan başka bir ilgiyle rekabet etmek zorunda kalır. Çocuk olduktan sonra çalışmaya zaman ayırmak zorlaşır ancak bu işin kolay kısmıdır. Değişen asıl şey, sizin uğraştığınız şeyle daha fazla ilgilenmek istememenizdir.
+
+Ancak otobüs bileti teorisinin en heyecan verici kısmı, büyük işler yapmak için cesaretlendirmenin yollarını önermesidir. Eğer dehanın tarifi doğal yetenek + sıkı çalışmak ise yapabileceğimiz tek şey çok yetenekli olduğumuzu umut etmek ve elimizden geldiğince çok çalışmaktır. Eğer ilgi tarifin gizli malzemesiyse ilgiyi geliştirerek bir dehayı yetiştirebiliriz.
+
+Örneğin çok hırslı olanlar için otobüs bileti teorisi büyük işler yapmanın yolunun biraz rahatlamaktan geçtiğini öne sürüyor. Dişinizi sıkıp akranlarınızın hemfikir olduğu gelecek vaadeden araştırma alanını takip etmek yerine belki de bir şeyleri sadece eğlencesine denemelisiniz. Eğer takılıp kalırsanız bu içinden çıkacağınız bir yol olabilir. 
+
+[Hamming](http://paulgraham.com/hamming.html)'in ünlü çift namlulu sorusunu her zaman sevmişimdir: Alanınızdaki en önemli problemler nelerdir ve neden bunlardan biri üzerinde çalışmıyorsunuz? Bu sizi kendinize getirmek için iyi bir yoldur ancak sizi biraz fazla zorlayabilir. En azından kendinize şunu sormanız faydalı olabilir: Muhtemelen önemli olmayacak ama gerçekten ilginç olacak bir şey üzerinde çalışmak için bir yıl izin alabilseydiniz bu ne olurdu? 
+
+
+
+[1] Çevirmen Notu: Srinivasa Aiyangar Ramanujan, sonsuz seriler üzerinde çalışmalar yapan ünlü bir matematikçidir. 
 
 [2] Çevirmen Notu: Arduvaz(slate) linkteki görselde Ramanujan'ın elinde tuttuğu, üzerine yazı yazılabilen bir araçtır. https://www.imsc.res.in/~rao/ramanujan/newnow/images/slate.jpg
  
