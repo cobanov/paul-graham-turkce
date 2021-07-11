@@ -23,7 +23,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
 - [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
 - [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
----
+
 
 ## Katkıda Bulunun
 
