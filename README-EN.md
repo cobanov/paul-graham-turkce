@@ -11,12 +11,21 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 |[Mert Cobanov](https://github.com/cobanov/)| 2 |
 |[Fethi Tekyaygil](https://github.com/TekyaygilFethi)|1|
 |[Eylül Kırdak](https://github.com/eylulkirdak/)| 1 |
+|[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
+|[Ayşe Nur Erdem](https://github.com/er-ay) |1|
+|[Nurettin Abacı](https://github.com/nurettinabaci) |3|
 
 
 ## Translated Essays 
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
 - [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
 - [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
+- [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
+- [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
+- [The Real Reason to End the Death Penalty - Idam Cezasını Sona Erdirmenin Gerçek Nedeni](articles/the-real-reason-to-end-the-death-penalty.md)
+- [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
+- [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
+- [See Randomness - Rastlantısallığı Gör](articles)
 
 
 ## Upcoming Translations
