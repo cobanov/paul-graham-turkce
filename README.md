@@ -7,7 +7,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 
 ## Çevirilen Yazılar  
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
-- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-thins.md)
+- [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-things.md)
 - [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
 - [Lies We Tell Kids - Çocuklara Söylediğimiz Yalanlar](articles/lies-we-tell-kids.md)
 - [Writing and Speaking - Yazma ve Konuşma](articles/writing-and-speaking.md)
