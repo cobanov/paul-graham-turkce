@@ -1,5 +1,7 @@
 **Orijinal isim: How People Get Rich Now**
+
 **Kaynak: http://www.paulgraham.com/richnow.html**
+
 **Çeviren: Güldeniz Bektaş**
 
 ## İnsanlar Artık Nasıl Zengin Oluyor
