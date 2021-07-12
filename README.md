@@ -20,7 +20,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
-- [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](four-quadrants-of-conformism.md)
+- [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
 
 ## Çevirmenler
 
