@@ -21,6 +21,8 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 - [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
+- [Writing, Briefly - Yazı, Kısaca](articles/writing-briefly.md)
+- [Life is Short - Hayat kısa](articles/life-is-short.md)
 
 ## Çevirmenler
 
