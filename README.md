@@ -40,6 +40,8 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Vusal Ismayilov](https://github.com/woosal1337) |1|
 |[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
 |Zeynep Evecen|1|
+|Mert Bozkurt|1|
+|Doğancan Mavideniz|1|
 
 ---
 
