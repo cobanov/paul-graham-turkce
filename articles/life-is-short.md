@@ -1,9 +1,8 @@
-﻿
-
-
 ## Life is Short
 **Kaynak :** http://paulgraham.com/vb.html
+
 **Yazar** : Paul Graham
+
 **Çeviren** : Mert Bozkurt
 
 ## **Türkçe**   
