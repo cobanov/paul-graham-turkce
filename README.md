@@ -23,6 +23,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
 - [Writing, Briefly - Yazı, Kısaca](articles/writing-briefly.md)
 - [Life is Short - Hayat kısa](articles/life-is-short.md)
+- [How People get Rich Now - İnsanlar şimdi nasıl zengin oluyor](articles/how-people-get-rich-now.md)
 
 ## Çevirmenler
 
@@ -44,6 +45,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |Zeynep Evecen|1|
 |Mert Bozkurt|1|
 |Doğancan Mavideniz|1|
+|[Güldeniz Bektaş](https://github.com/GuldenizBektas)|1|
 
 ---
 
