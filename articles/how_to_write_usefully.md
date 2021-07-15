@@ -1,12 +1,14 @@
-Orijinal isim: How to Write Usefully
+# How to Write Usefully
 
-Kaynak: http://paulgraham.com/useful.html
+**Kaynak:** [http://paulgraham.com/useful.html](http://paulgraham.com/useful.html)
 
-Çeviren: Güldeniz Bektaş
+**Yazar:** Paul Graham
+
+**Çeviren:** Güldeniz Bektaş
 
 
 
-## Nasıl Faydalı Yazılır
+## Türkçe
 
 Bir deneme nasıl olmalıdır? Çoğu insan ikna edici olması gerektiğini söyler. Bu, denemeler hakkında birçoğumuza öğretilmiş olan şey. Ama bence biz daha iddialı bir anlam hedefleyebiliriz: bir deneme faydalı olmalıdır.
 
@@ -121,8 +123,6 @@ Heyecan verici olan şey, yazacak çok şey olması değil, keşfedilecek çok �
 
 
 ## Orijinal
-
-## How to Write Usefully
 
 February 2020
 
