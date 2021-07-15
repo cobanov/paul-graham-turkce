@@ -1,5 +1,7 @@
 Orijinal isim: How to Write Usefully
+
 Kaynak: http://paulgraham.com/useful.html
+
 Çeviren: Güldeniz Bektaş
 
 
