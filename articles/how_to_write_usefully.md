@@ -99,7 +99,7 @@ Ancak, bir makalenin gövdesinde kasıtlı yanlış yorumlamaları açıkça ön
 
 _____
 
-Diğer birçok şeyde olduğu gibi, deneme yazmada daha iyi olmanın yolu pratik yapmaktır. Ama nasıl başlarsın? Yararlı yazının yapısını incelediğimize göre, bu soruyu daha kesin bir şekilde yeniden ifade edebiliriz. Başlangıçta hangi kısıtlamayı gevşetirsiniz? Cevap, önemin ilk bileşenidir: yazdıklarınızı önemseyen insan sayısı.
+Diğer birçok şeyde olduğu gibi, deneme yazmada daha iyi olmanın yolu pratik yapmaktır. Ama nasıl başlarsınız? Yararlı yazının yapısını incelediğimize göre, bu soruyu daha kesin bir şekilde yeniden ifade edebiliriz. Başlangıçta hangi kısıtlamayı gevşetirsiniz? Cevap, önemin ilk bileşenidir: yazdıklarınızı önemseyen insan sayısı.
 
 Konuyu yeterince daraltırsanız, muhtemelen uzman olduğunuz bir şey bulabilirsiniz. Başlangıç olarak bunun hakkında yazın. Önemseyen sadece on okuyucunuz varsa, sorun değil. Onlara yardım ediyorsun ve yazıyorsun. Daha sonra hakkında yazdığınız konuların kapsamını genişletebilirsiniz.
 
