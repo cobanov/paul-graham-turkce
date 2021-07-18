@@ -25,6 +25,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Life is Short - Hayat kısa](articles/life-is-short.md)
 - [How People get Rich Now - İnsanlar şimdi nasıl zengin oluyor](articles/how-people-get-rich-now.md)
 - [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
+- [The Island Test - Ada Testi](articles/the-island-test.md)
 
 ## Çevirmenler
 
@@ -40,7 +41,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
 |[Mustafa Durmuş](https://github.com/mdurmuss) |1|
 |[İrem Komurcu](https://github.com/irem-komurcu) |1|
-|[İrem Akyol](https://github.com/lastirembender) |1|
+|[İrem Akyol](https://github.com/lastirembender) |2|
 |[Vusal Ismayilov](https://github.com/woosal1337) |1|
 |[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
 |Zeynep Evecen|1|
