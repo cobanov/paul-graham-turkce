@@ -21,7 +21,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 - [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
-- [Writing, Briefly - Yazı, Kısaca](articles/writing-briefly.md)
+- [Writing, Briefly - Yazmak, Kısaca](articles/writing-briefly.md)
 - [Life is Short - Hayat kısa](articles/life-is-short.md)
 - [How People get Rich Now - İnsanlar şimdi nasıl zengin oluyor](articles/how-people-get-rich-now.md)
 - [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
@@ -46,7 +46,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
 |Zeynep Evecen|1|
 |Mert Bozkurt|1|
-|Doğancan Mavideniz|1|
+|[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
 
 ---
