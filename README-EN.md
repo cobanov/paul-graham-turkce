@@ -14,6 +14,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 |[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
 |[Ayşe Nur Erdem](https://github.com/er-ay) |1|
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
+|[Bora Kış](https://github.com/BoraKis)| 1 |
 
 
 ## Translated Essays 
