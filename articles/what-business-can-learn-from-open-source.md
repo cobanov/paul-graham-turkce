@@ -158,3 +158,15 @@ Bu, uzun vadede, açık kaynak ve blog yazmanın altında yatan güçlerin en b�
 **Notlar** 
  
 [1] Business Week, 31 Ocak 2005'in kapak haberinde yayınlanan Forrester Research tarafından yapılan anket. Görünüşe göre biri işletim sistemini değiştirmek için gerçek sunucuyu değiştirmeniz gerektiğine inanıyordu.
+
+[2] Eski Latince tripalium'dan türetilmiştir, üç kazıktan oluştuğu için bu şekilde adlandırılan bir işkence aleti. Kazıkların nasıl kullanıldığını bilmiyorum. "Travel" (Seyahat) da aynı köke sahiptir.
+
+[3] Başkan bir basın toplantısı yaparak yazılı olmayan sorularla karşı karşıya kalsaydı, bu anlamda çok daha büyük bir haber olurdu.
+
+[4] Gazetelerin yetersizliğinin bir ölçüsü, bu kadar çok kişinin sizi hâlâ hikâye okumak için kayıt ettiriyor olmasıdır. Henüz bunu deneyen bir blog bulamadım.
+
+[5] Makaleyi kabul ettiler, ancak onlara son halini göndermem o kadar uzun sürdü ki, derginin kabul ettikleri bölümü, yaptığımda yeniden yapılanma sırasında ortadan kaybolmuştu.
+
+[6] "Patron" sözcüğü, "efendi" anlamına gelen Felemenkçe baas'dan türetilmiştir.
+
+Bunun taslaklarını okudukları için Sarah Harlin, Jessica Livingston ve Robert Morris'e **teşekkürler**.
