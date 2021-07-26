@@ -109,11 +109,11 @@ Aynı şey yazarken de olur. Yayına yaklaştıkça, [Hackers & Painters](https:
 
 Eskiden tüm yayıncılık böyleydi. Bir taslağı okuyacak on kişiniz varsa, şanslısınız. Ama internette yayınlamaya o kadar alışmıştım ki, eski yöntem artık ürkütücü derecede güvenilmez görünüyordu, tıpkı bir GPS'e alıştıktan sonra konum tahminleriyle gezinmek gibi.
 
-Çevrimiçi yayıncılıkla ilgili sevdiğim bir diğer şey de, istediğinizi yazıp istediğiniz zaman yayınlayabilmenizdir. Bu yılın başlarında bir dergi için uygun görünen bir şey yazdım, bu yüzden tanıdığım bir editöre gönderdim. Cevap beklerken, reddetmelerini umduğuma şaşırdım. O zaman hemen internete koyabilirim. Kabul etselerdi, aylarca kimse tarafından okunmayacaktı ve bu arada onu yirmi beş yaşında bir kopya editörü tarafından parçalanmaktan kurtarmak için kelimesi kelimesine mücadele etmem gerekecekti. [5]
+Çevrimiçi yayıncılıkla ilgili sevdiğim bir diğer şey de, istediğinizi yazıp istediğiniz zaman yayınlayabilmenizdir. Bu yılın başlarında bir dergi için uygun görünen [bir şey](http://paulgraham.com/inequality.html) yazdım, bu yüzden tanıdığım bir editöre gönderdim. Cevap beklerken, reddetmelerini umduğuma şaşırdım. O zaman hemen internete koyabilirim. Kabul etselerdi, aylarca kimse tarafından okunmayacaktı ve bu arada onu yirmi beş yaşında bir kopya editörü tarafından parçalanmaktan kurtarmak için kelimesi kelimesine mücadele etmem gerekecekti. [5]
 
 Pek çok çalışan, çalıştıkları şirketler için harika şeyler inşa etmek ister, ancak çoğu zaman yönetim onlara izin vermez. Kaçımız, çalışanların yönetime gidip, lütfen bu şeyi sizin para kazanmanız için inşa etmemize izin verin dediğini ve şirketin hayır dediğini a hikâyeler duyduk? En ünlü örnek muhtemelen başlangıçta o zamanki işvereni HP için mikrobilgisayarlar yapmak isteyen Steve Wozniak'tır. Ve onu geri çevirdiler. Gafölçerde, bu bölüm IBM'in DOS için münhasır olmayan bir lisansı kabul etmesi olarak sayılıyor. Ama bence bu her zaman oluyor. Genelde bunu duymuyoruz çünkü haklı olduğunuzu kanıtlamak için Wozniak'ın yaptığı gibi istifa edip kendi şirketinizi kurmanız gerekiyor.
 
-Startup'lar 
+**Startup'lar** 
  
 Bence açık kaynak kodlu ve blog yazarlığının işletmeye öğretmesi gereken üç büyük ders şunlar: (1) insanların sevdikleri şeyler üzerinde daha çok çalışması, (2) standart ofis ortamının çok verimsiz olması ve (3) “aşağıdan yukarıya”nın genellikle “yukarıdan aşağıya”dan daha çok işe yaraması.
 
@@ -127,7 +127,7 @@ Ve bu doğru, belirli bir yöneticinin tanımladığım güçlerden elde edebile
 
 Her iki ucunda da olmaktan hoşlanmıyorum. Bir müşteri için canla başla çalışırım ama bir patronun bana ne yapacağımı söylemesine içerliyorum. Ve patron olmak da korkunç derecede sinir bozucu; çoğu zaman, bir şeyi kendin yapmak, başkasının senin için yapmasını sağlamaktan daha kolaydır. Performans incelemesi vermek veya almaktansa hemen hemen her şeyi yapmayı tercih ederim.
 
-Gelecek vaat etmeyen kökenlerine ek olarak, istihdam yıllar içinde çok fazla zorluk biriktirdi. İş görüşmelerinde isteyemeyeceklerin listesi artık o kadar uzun ki, kolaylık olması açısından sonsuz olduğunu varsayıyorum. Ofiste artık kimsenin şirkete dava açmasına neden olacak bir şey [söylememesi](http://paulgraham.com/inequality.html) veya yapmaması için temkinli davranmak zorundasınız. Ve eğer birini kovarsanız da, Tanrı yardımcınız olsun.
+Gelecek vaat etmeyen kökenlerine ek olarak, istihdam yıllar içinde çok fazla zorluk biriktirdi. İş görüşmelerinde isteyemeyeceklerin listesi artık o kadar uzun ki, kolaylık olması açısından sonsuz olduğunu varsayıyorum. Ofiste artık kimsenin şirkete dava açmasına neden olacak bir şey [söylememesi](http://paulgraham.com/say.html) veya yapmaması için temkinli davranmak zorundasınız. Ve eğer birini kovarsanız da, Tanrı yardımcınız olsun.
 
 Hiçbir şey, istihdamın sıradan bir ekonomik ilişki olmadığını, insanları işten çıkardığı için dava edilen şirketlerden daha açık bir şekilde gösteremez. Tamamen ekonomik bir ilişkide, istediğinizi yapmakta özgürsünüz. Bir tedarikçiden çelik boru almayı bırakıp başka bir tedarikçiden çelik boru almaya başlamak istiyorsanız, nedenini açıklamak zorunda değilsiniz. Hiç kimse sizi haksız yere boru tedarikçileri değiştirmekle suçlayamaz. Adalet, eşitler arasındaki işlemlerde olmayan bir tür paternalist yükümlülüğü ima eder.
 
