@@ -139,13 +139,13 @@ Bir dahaki sefere orta büyüklükte bir şehre geldiğinizde, ana postaneye uğ
 
 Bunu kanıtlamak için yapılan kontrollü bir deneye katılma talihsizliği yaşadım. Yahoo girişimimizi satın aldıktan sonra onlar için çalışmaya gittim. Patronlar dışında tamamen aynı işi yapıyordum. Ve korku içinde bir çocuk gibi davranmaya başladım. Bu durum, sahip olduğumu unuttuğum şeyleri bana hatırlattı.
 
-Açık kaynak ve blog örneklerinin gösterdiği gibi, yatırımın istihdama göre büyük avantajı, kendi projeleri üzerinde çalışan insanların çok daha üretken olmasıdır. Ve bir [startup](http://paulgraham.com/say.html), her ikisi de önemli olan iki anlamda kişinin kendine ait bir projesidir: yaratıcı olarak kendisinin ve aynı zamanda ekonomik olarak da kendisinin.
+Açık kaynak ve blog örneklerinin gösterdiği gibi, yatırımın istihdama göre büyük avantajı, kendi projeleri üzerinde çalışan insanların çok daha üretken olmasıdır. Ve bir [startup](http://paulgraham.com/start.html), her ikisi de önemli olan iki anlamda kişinin kendine ait bir projesidir: yaratıcı olarak kendisinin ve aynı zamanda ekonomik olarak da kendisinin.
 
 Google, tarif ettiğim güçlerle uyum içinde olan büyük bir şirketin nadir bir örneğidir. Ofislerini normal küp çiftliğinden daha az steril hale getirmek için çok uğraştılar. Harika işler çıkaran çalışanlara, bir girişimin ödüllerini simüle etmek için büyük miktarda hisse senedi veriyorlar. Bilgisayar korsanlarının zamanlarının %20'sini kendi projelerine harcamalarına bile izin veriyorlar.
 
 Neden insanların zamanlarının %100'ünü kendi projelerine harcamalarına izin vermiyor ve yarattıkları şeyin değerini tahmin etmeye çalışmak yerine onlara gerçek piyasa değerini vermiyorlar? İmkânsız mı? Aslında risk sermayedarlarının yaptığı da bu.
 
-Yani artık kimsenin bir çalışan olmayacağını, herkesin gidip bir startup kurması gerektiğini mi iddia ediyorum? Tabii ki hayır. Ama şimdikinden daha fazla insan bunu yapabilir. Şu anda, en zeki öğrenciler bile bir [iş](http://paulgraham.com/say.html) bulmaları gerektiğini düşünerek okuldan ayrılıyor. Aslında yapmaları gereken bir şeyi değerli kılmak. Bir iş bunu yapmanın bir yoludur, ancak daha hırslı olanlar genellikle bir işverenden çok bir yatırımcıdan para almaktan daha memnun olacaktır.
+Yani artık kimsenin bir çalışan olmayacağını, herkesin gidip bir startup kurması gerektiğini mi iddia ediyorum? Tabii ki hayır. Ama şimdikinden daha fazla insan bunu yapabilir. Şu anda, en zeki öğrenciler bile bir [iş](http://paulgraham.com/hiring.html) bulmaları gerektiğini düşünerek okuldan ayrılıyor. Aslında yapmaları gereken bir şeyi değerli kılmak. Bir iş bunu yapmanın bir yoludur, ancak daha hırslı olanlar genellikle bir işverenden çok bir yatırımcıdan para almaktan daha memnun olacaktır.
 
 Bilgisayar korsanları, işletmeyi MBA olarak düşünme eğilimindedir.  Ancak işletme yönetimi, bir girişimde yaptığınız şey değildir. Yaptığınız şey iş yaratmak. Ve bunun ilk aşaması çoğunlukla ürün yaratmak-- yani, hacklemek. İşin zor kısmı bu. İnsanların sevdiği bir şey yaratmak, insanların sevdiği bir şeyi alıp ondan nasıl para kazanılacağını bulmaktan çok daha zordur.
 
