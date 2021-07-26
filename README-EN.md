@@ -14,6 +14,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 |[Mustafa Enes Güneruz](https://github.com/menesguneruz) |1|
 |[Ayşe Nur Erdem](https://github.com/er-ay) |1|
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
+|[Bora Kış](https://github.com/BoraKis)| 1 |
 
 
 ## Translated Essays 
@@ -26,6 +27,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
 
 
 ## Upcoming Translations
