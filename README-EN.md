@@ -27,6 +27,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
+- [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
 
 
 ## Upcoming Translations
