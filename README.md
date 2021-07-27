@@ -50,7 +50,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
-|[Bora Kış](https://github.com/BoraKis)|1|
+|[Bora Kış](https://github.com/BoraKis)|2|
 
 ---
 
