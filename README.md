@@ -27,6 +27,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
 - [The Island Test - Ada Testi](articles/the-island-test.md)
 - [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
+- [A Way to Detect Bias - Önyargıyı Tespit Etmenin Bir Yolu](articles/a-way-to-detect-bias.md)
 
 ## Çevirmenler
 
@@ -49,7 +50,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
-|[Bora Kış](https://github.com/BoraKis)|1|
+|[Bora Kış](https://github.com/BoraKis)|2|
 
 ---
 
