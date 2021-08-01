@@ -48,7 +48,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[İrem Komurcu](https://github.com/irem-komurcu) |1|
 |[İrem Akyol](https://github.com/lastirembender) |2|
 |[Vusal Ismayilov](https://github.com/woosal1337) |1|
-|[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
+|[Ozan Sülükpınar](https://github.com/ozansulukpinar) |3|
 |Zeynep Evecen|1|
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
