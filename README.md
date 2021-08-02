@@ -32,6 +32,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Why Twitter is a Big Deal - Twitter Neden Büyük Bir Fırsat](articles/why-twitter-is-a-big-deal.md)
 - [Charisma / Power - Karizma / Güç](articles/charisma-power.md)
 - [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
+- [General and Surprising - Genel ve Şaşırtıcı](articles/general-and-surprising.md)
 
 ## Çevirmenler
 
@@ -56,6 +57,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
 |[Bora Kış](https://github.com/BoraKis)|3|
 |[Ayşe Türk](https://github.com/ayseturkk)|1|
+|[Turhan Can Kargın](https://github.com/turhancan97)|1|
 ---
 
 ## Katkıda Bulunun
