@@ -106,7 +106,9 @@ Herkesin bir girişim başlatabileceğini söylemiyorum. Eminim çoğu insan yap
 "İsterlerse" önemli bir niteliktir - o kadar önemlidir ki, onu bu şekilde eklemek neredeyse hile yapmaktır - çünkü belli bir zekâ eşiğini aştığınızda, ki bu en iyi okullardaki çoğu Bilgisayar Bilimi bölümünün geçmiş olduğu bir eşiktir, bir kurucu olarak başarılı olup olmadığınızı belirleyen faktör, ne kadar istediğinizdir. O kadar da akıllı olmak zorunda değilsin. Bir dahi değilseniz, insan kaynakları departmanları için yazılımlar gibi daha az rekabete sahip olacağınız zahmetli olmayan bir alanda bir startup kurun. Bu örneği rastgele seçtim, ancak şu anda sahip oldukları her neyse, daha iyisini yapmak için deha gerekmediğini tahmin etme konusunda kendimi güvende hissediyorum. Dışarıda sıkıcı şeyler üzerinde çalışan ve umutsuzca daha iyi bir yazılıma ihtiyaç duyan bir sürü insan var, bu yüzden Larry ve Sergey için ne kadar yetersiz olduğunuzu düşünürseniz düşünün, fikrin serinliğini telafi edecek kadar azaltabilirsiniz.
 
 Cehalet, sizi korkutmaktan alıkoymanın yanı sıra, bazen yeni fikirler keşfetmenize de yardımcı olabilir. [Steve Wozniak](http://foundersatwork.com/stevewozniak.html) şunu çok güçlü bir şekilde ifade ediyor:
-Apple'da yaptığım en iyi şeyler (a) paramın olmaması ve (b) bunu daha önce hiç yapmamış olmam sayesinde oldu. Ortaya çıkardığımız her şey gerçekten harikaydı, hayatımda bir kez bile böyle bir şey yapmamıştım.
+
+> Apple'da yaptığım en iyi şeyler (a) paramın olmaması ve (b) bunu daha önce hiç yapmamış olmam sayesinde oldu. Ortaya çıkardığımız her şey gerçekten harikaydı, hayatımda bir kez bile böyle bir şey yapmamıştım.
+
 Hiçbir şey bilmediğiniz zaman, bir şeyleri kendiniz için yeniden icat etmeniz gerekir ve eğer akıllıysanız, yeniden icatlarınız onlardan öncekinden daha iyi olabilir. Bu, özellikle kuralların değiştiği alanlar için geçerlidir. Yazılım hakkındaki tüm fikirlerimiz, işlemcilerin yavaş, belleklerin ve disklerin küçük olduğu bir zamanda geliştirildi. Geleneksel bilgeliğe gömülü hangi eski varsayımların olduğunu kim bilebilir? Ve bu varsayımların düzeltileceği yol, onları açıkça serbest bırakmak değil, çöp toplamaya daha yakın bir şey. Cahil ama akıllı biri gelip her şeyi yeniden icat edecek ve bu süreçte mevcut bazı fikirleri yeniden üretmekte başarısız olacak. 
 
 **Eksi**  
@@ -266,7 +268,7 @@ I realize this seems odd advice. If they make your life so good that you don't w
 
 The best place to work, if you want to start a startup, is probably a startup. In addition to being the right sort of experience, one way or another it will be over quickly. You'll either end up rich, in which case problem solved, or the startup will get bought, in which case it it will start to suck to work there and it will be easy to leave, or most likely, the thing will blow up and you'll be free again.
 
-Your final advantage, ignorance, may not sound very useful. I deliberately used a controversial word for it; you might equally call it innocence. But it seems to be a powerful force. My Y Combinator co-founder Jessica Livingston is just about to publish a book of interviews with startup founders, and I noticed a remarkable pattern in them. One after another said that if they'd known how hard it would be, they would have been too intimidated to start.
+Your final advantage, ignorance, may not sound very useful. I deliberately used a controversial word for it; you might equally call it innocence. But it seems to be a powerful force. My Y Combinator co-founder Jessica Livingston is just about to publish a book of [interviews](http://www.amazon.com/gp/product/1590597141) with startup founders, and I noticed a remarkable pattern in them. One after another said that if they'd known how hard it would be, they would have been too intimidated to start.
 
 Ignorance can be useful when it's a counterweight to other forms of stupidity. It's useful in starting startups because you're capable of more than you realize. Starting startups is harder than you expect, but you're also capable of more than you expect, so they balance out.
 Most people look at a company like Apple and think, how could I ever make such a thing? Apple is an institution, and I'm just a person. But every institution was at one point just a handful of people in a room deciding to start something. Institutions are made up, and made up by people no different from you.
@@ -275,8 +277,10 @@ I'm not saying everyone could start a startup. I'm sure most people couldn't; I 
 
 That "if they wanted" is an important qualification—so important that it's almost cheating to append it like that—because once you get over a certain threshold of intelligence, which most CS majors at top schools are past, the deciding factor in whether you succeed as a founder is how much you want to. You don't have to be that smart. If you're not a genius, just start a startup in some unsexy field where you'll have less competition, like software for human resources departments. I picked that example at random, but I feel safe in predicting that whatever they have now, it wouldn't take genius to do better. There are a lot of people out there working on boring stuff who are desperately in need of better software, so however short you think you fall of Larry and Sergey, you can ratchet down the coolness of the idea far enough to compensate.
 
-As well as preventing you from being intimidated, ignorance can sometimes help you discover new ideas. Steve Wozniak put this very strongly:
-All the best things that I did at Apple came from (a) not having money and (b) not having done it before, ever. Every single thing that we came out with that was really great, I'd never once done that thing in my life.
+As well as preventing you from being intimidated, ignorance can sometimes help you discover new ideas. [Steve Wozniak](http://foundersatwork.com/stevewozniak.html) put this very strongly:
+
+> All the best things that I did at Apple came from (a) not having money and (b) not having done it before, ever. Every single thing that we came out with that was really great, I'd never once done that thing in my life.
+
 When you know nothing, you have to reinvent stuff for yourself, and if you're smart your reinventions may be better than what preceded them. This is especially true in fields where the rules change. All our ideas about software were developed in a time when processors were slow, and memories and disks were tiny. Who knows what obsolete assumptions are embedded in the conventional wisdom? And the way these assumptions are going to get fixed is not by explicitly deallocating them, but by something more akin to garbage collection. Someone ignorant but smart will come along and reinvent everything, and in the process simply fail to reproduce certain existing ideas.
 
 **Minus**
@@ -344,4 +348,4 @@ To be safe either (a) don't use code written while you were still employed in yo
 
 Thanks to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak.
 
-Comment on this essay.
+[Comment](http://reddit.com/info/l1xb/comments) on this essay.
