@@ -28,6 +28,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [Copy What You Like - Beğendiğini Kopyala](articles/copy-what-you-like.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
 - [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
+[A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
 
 
 ## Upcoming Translations
