@@ -1,4 +1,4 @@
-# A Way to Detect Bias
+# A Student's Guide to Startups
 
 **Kaynak:** [http://paulgraham.com/mit.html](http://paulgraham.com/mit.html)
 
