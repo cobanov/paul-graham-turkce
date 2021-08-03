@@ -1,8 +1,10 @@
-
 # paul-graham-turkce
 ## 🇹🇷 [Read this page in Turkish](README.md)
 
 This repo is a voluntarily growing resource that publishes Turkish translations of essays on [Paul Graham's personal webpage](http://paulgraham.com/articles.html).
+
+## Translators
+**EN:** Many thanks to all the translators who supported the volunteer project.
 
 ## Translated Essays  
 - [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
@@ -26,6 +28,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
 - [The Island Test - Ada Testi](articles/the-island-test.md)
 - [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
+- [A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
 
 ## Translators
 
@@ -48,9 +51,7 @@ Many thanks to all the translators who supported the volunteer project.
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
-|[Bora Kış](https://github.com/BoraKis)|1|
-
----
+|[Bora Kış](https://github.com/BoraKis)|4|
 
 ## Contributions
 
