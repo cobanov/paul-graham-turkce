@@ -34,6 +34,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Charisma / Power - Karizma / Güç](articles/charisma-power.md)
 - [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
 - [General and Surprising - Genel ve Şaşırtıcı](articles/general-and-surprising.md)
+- [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
 
 ## Çevirmenler
 
