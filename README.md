@@ -29,7 +29,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
 - [A Way to Detect Bias - Önyargıyı Tespit Etmenin Bir Yolu](articles/a-way-to-detect-bias.md)
 - [A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
-- [The Airbnbs - Airbnbs](articles/the-airbnbs.md)
+- [The Airbnbs - Airbnb'ler](articles/the-airbnbs.md)
 - [Why Twitter is a Big Deal - Twitter Neden Büyük Bir Fırsat](articles/why-twitter-is-a-big-deal.md)
 - [Charisma / Power - Karizma / Güç](articles/charisma-power.md)
 - [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
