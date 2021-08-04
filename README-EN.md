@@ -28,6 +28,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
 - [The Island Test - Ada Testi](articles/the-island-test.md)
 - [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
+- [The Airbnbs - Airbnb'ler](articles/the-airbnbs.md)
 - [A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
 
