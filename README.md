@@ -35,6 +35,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
 - [General and Surprising - Genel ve Şaşırtıcı](articles/general-and-surprising.md)
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
+- [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 
 ## Çevirmenler
 
@@ -57,7 +58,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
-|[Bora Kış](https://github.com/BoraKis)|5|
+|[Bora Kış](https://github.com/BoraKis)|6|
 |[Ayşe Türk](https://github.com/ayseturkk)|1|
 |[Turhan Can Kargın](https://github.com/turhancan97)|1|
 

@@ -31,6 +31,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [The Airbnbs - Airbnb'ler](articles/the-airbnbs.md)
 - [A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
+- [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 
 ## Translators
 
@@ -53,7 +54,7 @@ Many thanks to all the translators who supported the volunteer project.
 |Mert Bozkurt|1|
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
-|[Bora Kış](https://github.com/BoraKis)|5|
+|[Bora Kış](https://github.com/BoraKis)|6|
 
 ## Contributions
 
