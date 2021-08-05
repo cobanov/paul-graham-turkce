@@ -35,6 +35,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
 - [General and Surprising - Genel ve Şaşırtıcı](articles/general-and-surprising.md)
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
+- [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 
 ## Çevirmenler
 
