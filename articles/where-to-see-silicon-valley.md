@@ -65,38 +65,38 @@ Silikon Vadisi boyunca uzanan iki otoyolu var: oldukça çirkin olan 101 ve dün
 Bunun taslaklarını okudukları için Sam Altman, Paul Buchheit, Patrick Collison ve Jessica Livingston'a **teşekkürler**.
 
 ## Orijinal
-Want to start a startup? Get Funded by Y Combinator.
+**Want to start a startup?** Get Funded by [Y Combinator](https://www.ycombinator.com/apply.html).
 October 2010
 
 Silicon Valley proper is mostly suburban sprawl. At first glance it doesn't seem there's anything to see. It's not the sort of place that has conspicuous monuments. But if you look, there are subtle signs you're in a place that's different from other places.
 
-1. Stanford University
+1.[Stanford University](https://www.google.com/maps?q=stanford+university)
 
 Stanford is a strange place. Structurally it is to an ordinary university what suburbia is to a city. It's enormously spread out, and feels surprisingly empty much of the time. But notice the weather. It's probably perfect. And notice the beautiful mountains to the west. And though you can't see it, cosmopolitan San Francisco is 40 minutes to the north. That combination is much of the reason Silicon Valley grew up around this university and not some other one.
 
-2. University Ave
+2.[University Ave](https://www.google.com/maps?q=university+and+ramona+palo+alto)
 
 A surprising amount of the work of the Valley is done in the cafes on or just off University Ave in Palo Alto. If you visit on a weekday between 10 and 5, you'll often see founders pitching investors. In case you can't tell, the founders are the ones leaning forward eagerly, and the investors are the ones sitting back with slightly pained expressions.
 
-3. The Lucky Office
+3.[The Lucky Office](https://www.google.com/maps?q=165+university+ave+palo+alto)
 
-The office at 165 University Ave was Google's first. Then it was Paypal's. (Now it's Wepay's.) The interesting thing about it is the location. It's a smart move to put a startup in a place with restaurants and people walking around instead of in an office park, because then the people who work there want to stay there, instead of fleeing as soon as conventional working hours end. They go out for dinner together, talk about ideas, and then come back and implement them.
+The office at 165 University Ave was Google's first. Then it was Paypal's. (Now it's [Wepay](http://wepay.com)'s.) The interesting thing about it is the location. It's a smart move to put a startup in a place with restaurants and people walking around instead of in an office park, because then the people who work there want to stay there, instead of fleeing as soon as conventional working hours end. They go out for dinner together, talk about ideas, and then come back and implement them.
 
 It's important to realize that Google's current location in an office park is not where they started; it's just where they were forced to move when they needed more space. Facebook was till recently across the street, till they too had to move because they needed more space.
 
-4. Old Palo Alto
+4.[Old Palo Alto](http://maps.google.com/maps?q=2900+sand+hill+road+menlo+park)
 
 Palo Alto was not originally a suburb. For the first 100 years or so of its existence, it was a college town out in the countryside. Then in the mid 1950s it was engulfed in a wave of suburbia that raced down the peninsula. But Palo Alto north of Oregon expressway still feels noticeably different from the area around it. It's one of the nicest places in the Valley. The buildings are old (though increasingly they are being torn down and replaced with generic McMansions) and the trees are tall. But houses are very expensive—around $1000 per square foot. This is post-exit Silicon Valley.
 
-5. Sand Hill Road
+5.[Sand Hill Road](http://maps.google.com/maps?q=2900+sand+hill+road+menlo+park)
 
 It's interesting to see the VCs' offices on the north side of Sand Hill Road precisely because they're so boringly uniform. The buildings are all more or less the same, their exteriors express very little, and they are arranged in a confusing maze. (I've been visiting them for years and I still occasionally get lost.) It's not a coincidence. These buildings are a pretty accurate reflection of the VC business.
 
 If you go on a weekday you may see groups of founders there to meet VCs. But mostly you won't see anyone; bustling is the last word you'd use to describe the atmos. Visiting Sand Hill Road reminds you that the opposite of "down and dirty" would be "up and clean."
 
-6. Castro Street
+6.[Castro Street](http://maps.google.com/maps?q=castro+and+villa+mountain+view)
 
-It's a tossup whether Castro Street or University Ave should be considered the heart of the Valley now. University Ave would have been 10 years ago. But Palo Alto is getting expensive. Increasingly startups are located in Mountain View, and Palo Alto is a place they come to meet investors. Palo Alto has a lot of different cafes, but there is one that clearly dominates in Mountain View: Red Rock.
+It's a tossup whether Castro Street or University Ave should be considered the heart of the Valley now. University Ave would have been 10 years ago. But Palo Alto is getting expensive. Increasingly startups are located in Mountain View, and Palo Alto is a place they come to meet investors. Palo Alto has a lot of different cafes, but there is one that clearly dominates in Mountain View: [Red Rock](http://maps.google.com/places/us/ca/mountain-view/castro-st/201/-red-rock-coffee).
 
 7.[Google](https://www.google.com/maps?q=charleston+road+mountain+view)
 
