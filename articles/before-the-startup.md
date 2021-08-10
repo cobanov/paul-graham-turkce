@@ -62,7 +62,7 @@ Bu yüzden numara aramayı bırakın. Her alanda olduğu gibi startuplarda da nu
 
 En güçlü silahlarınızdan birinden mahrum kalmanız bir bakıma kötü haber olsa da, startup kurduğunuzda sistemle oynamanın işe yaramamaya başlaması bence heyecan verici bir şey. Dünyanın iyi iş yaparak kazandığınız bölgelerinin olması bile heyecan verici. Her şey ya saçma sapan şeylere çok zaman harcamanız ya da bunu yapan insanlara karşı kaybetmeniz gereken okul ve büyük şirketler gibi olsaydı dünyanın ne kadar iç karartıcı olacağını hayal edin. [3] Üniversitede, gerçek dünyanın, sistemi kandırmanın diğerlerinden daha az önemli olduğu ve hiç önemli olmadığı yerleri olduğunu fark etseydim çok mutlu olurdum. Ama var ve bu varyasyon geleceğinizi düşünürken göz önünde bulundurmanız gereken en önemli şeylerden biri. Her bir iş türünde nasıl kazanıyorsunuz ve ne yaparak kazanmak istersiniz?[4]  
  
-Her Şeyi Tüketen  
+**Her Şeyi Tüketen**  
  
 Bu da bizi sezgilere aykırı dördüncü noktamıza getiriyor: Startup'lar her şeyi tüketiyor. Bir girişim başlatırsanız, hayatınızı hayal bile edemeyeceğiniz bir dereceye kadar ele geçirecektir. Ve startupınız başarılı olursa, hayatınızı uzun süre ele geçirecek: en azından birkaç yıl için, belki on yıl, belki de çalışma hayatınızın geri kalanını. Yani burada gerçek bir fırsat maliyeti var. 
 
@@ -76,7 +76,7 @@ Yine de, konu startup'lara gelince, pek çok insan onları daha üniversitedeyke
 
 Açıkçası üniversitelerin buna eli mahkum. Gelen birçok öğrenci startuplarla ilgileniyor. Üniversitelerin, en azından fiili olarak, onları kariyerlerine hazırlamaları beklenir. Bu yüzden startup kurmak isteyen öğrenciler üniversitelerin kendilerine startuplar hakkında bilgi verebilmesini umuyorlar. Ve üniversiteler bunu yapsın ya da yapmasın, bunu yapan diğer üniversitelere başvuranları kaybetmemek için yapabileceklerini iddia etmeleri adına bir baskı var. 
 
-Üniversiteler öğrencilere startuplar hakkında bilgi verebilir mi? Hem evet, hem hayır. Öğrencilere startuplar hakkında bilgi verebilirler ama daha önce de açıkladığım gibi bilmeniz gereken bu değil. Öğrenmeniz gereken şey kendi kullanıcılarınızın ihtiyaçları ve şirketi gerçekten kurana kadar bunu yapamazsınız.[5]Yani bir startup başlatmak, özünde, ancak gerçekten yaparak öğrenebileceğiniz bir şeydir. Ve bunu az önce açıkladığım nedenden dolayı üniversitede yapmak imkansız: Startup'lar hayatınızı ele geçirir. Öğrenci olarak gerçek bir startup başlatamazsınız; çünkü gerçekten bir startup başlatırsanız artık öğrenci değilsinizdir. Bir süreliğine ismen öğrenci olabilirsiniz, ama uzun süre o bile olmayacaksın. [6]
+Üniversiteler öğrencilere startuplar hakkında bilgi verebilir mi? Hem evet, hem hayır. Öğrencilere startuplar hakkında bilgi verebilirler ama daha önce de açıkladığım gibi bilmeniz gereken bu değil. Öğrenmeniz gereken şey kendi kullanıcılarınızın ihtiyaçları ve şirketi gerçekten kurana kadar bunu yapamazsınız.[5] Yani bir startup başlatmak, özünde, ancak gerçekten yaparak öğrenebileceğiniz bir şeydir. Ve bunu az önce açıkladığım nedenden dolayı üniversitede yapmak imkansız: Startup'lar hayatınızı ele geçirir. Öğrenci olarak gerçek bir startup başlatamazsınız; çünkü gerçekten bir startup başlatırsanız artık öğrenci değilsinizdir. Bir süreliğine ismen öğrenci olabilirsiniz, ama uzun süre o bile olmayacaksın.[6]
 
 Bu ikilem göz önüne alındığında, iki yoldan hangisini seçmelisiniz? Gerçek bir öğrenci olmak ve bir startup kurmamak mı yoksa gerçek bir startup kurup öğrenci olmamak mı? Bunu sizin için cevaplayabilirim. Üniversitede startup kurmamak. Bir startupa nasıl başlanacağı, çözmeye çalıştığınız daha büyük bir sorunun sadece bir alt kümesidir: nasıl iyi bir hayata sahip olunacağı. Ve birçok hırslı insan için bir startup kurmak iyi bir hayatın parçası olsa da, 20 yaş bunu yapmak için en uygun zaman değil. Bir startup başlatmak, vahşice hızlı bir derinlik öncelikli arama gibidir. Çoğu insanın 20 yaşında hala genişlik öncelikli arama yapıyor olması gerekir.
 
@@ -86,11 +86,11 @@ Mark Zuckerberg asla yabancı bir ülkede aylak aylak dolaşamayacak. Çoğu ins
 
 Burada bir takas bile yok. 20 yaşında bir startup başlatmaktan vazgeçerseniz hiçbir şeyden ödün vermiyorsunuz çünkü beklerseniz başarılı olma olasılığınız daha yüksek. 20 yaşında olduğunuz ve yan projelerinizden birinin Facebook'un yaptığı gibi başarılı olması gibi çok muhtemel olmayan bir durumda, bununla devam etmek ya da etmemek arasında bir seçimle karşı karşıya kalacaksınız; ve belki de mantıklı olan devam etmektir. Ancak startupların olağan başarı yolu, kurucuların onları harekete geçirmesidir ve bunu 20 yaşında yapmak gereksiz yere aptalcadır. 
 
-Dene  
+**Dene**  
  
 Her yaşta yapmalı mıyım? Startuplar çok zor şeylermiş gibi gösterdiğimin farkındayım. Eğer öyle yapmadıysam, tekrar deneyeyim: bir startup başlatmak gerçekten zor. Ya çok zorsa? Bu meydan okumaya hazır olup olmadığınızı nasıl anlarsınız? 
 
-Yanıt, sezgilere aykırı beşinci noktadır: Anlayamazsınız. Şimdiye kadarki yaşamınız, bir matematikçi veya profesyonel bir futbolcu olmaya çalışırsanız, beklentilerinizin ne olabileceği konusunda size bir fikir vermiş olabilir. Ama çok garip bir hayatınız olmadıkça, bir startup kurucusu olmak gibi pek bir şey yapmamışsınızdır. Bir startup kurmak sizi çok değiştirecek. Yani tahmin etmeye çalıştığınız şey sadece ne olduğunuz değil, neye dönüşebileceğinizdir ve bunu kim yapabilir? 
+Yanıt, sezgilere aykırı beşinci noktadır: Anlayamazsınız. Şimdiye kadarki yaşamınız, bir matematikçi veya profesyonel bir futbolcu olmaya çalışırsanız, beklentilerinizin ne olabileceği konusunda size bir fikir vermiş olabilir. Ama çok garip bir hayatınız olmadıkça, bir startup kurucusu olmak [gibi](http://paulgraham.com/really.html) pek bir şey yapmamışsınızdır. Bir startup kurmak sizi çok değiştirecek. Yani tahmin etmeye çalıştığınız şey sadece ne olduğunuz değil, neye dönüşebileceğinizdir ve bunu kim yapabilir? 
 
 Geçtiğimiz 9 yıl boyunca, insanların başarılı startuplar başlatmak için gerekenlere sahip olup olmayacağını tahmin etmek benim işimdi. Ne kadar akıllı olduklarını söylemek kolaydı ve bunu okuyan çoğu insan bu eşiği aşacaktır. Zor kısım, ne kadar çetin ve hırslı olacaklarını tahmin etmekti. Bunu tahmin etme konusunda daha fazla deneyime sahip kimse olmayabilir, bu yüzden size bir uzmanın bu konuda ne kadar bilgi sahibi olabileceğini söyleyebilirim ve cevap şu: fazla değil. Her partideki startuplardan hangisinin yıldız olacağı konusunda tamamen açık fikirli olmayı öğrendim.
 
@@ -100,11 +100,11 @@ Aynı şeyin orduda da geçerli olduğunu okudum – dayılık taslayan askerler
 
 Bir startup kurmaktan kesinlikle korkuyorsanız, muhtemelen bunu yapmamalısınız. Ama sadece buna hazır olup olmadığınızdan emin değilseniz, öğrenmenin tek yolu denemektir. Sadece şimdi değil.
 
-Fikirler 
+**Fikirler** 
  
 Bir gün bir startup kurmak isterseniz, üniversitede ne yapmalısınız? Başlangıçta ihtiyacınız olan sadece iki şey var: bir fikir ve kurucu ortaklar. Her ikisine ulaşmanın yolu da aynı. Bu da bizi altıncı ve son mantığa aykırı noktaya götürüyor: startup fikirleri edinmenin yolu startup fikirleri düşünmeye çalışmak değil.
 
-Bunun üzerine bir yazı yazdım, bu yüzden burada hepsini tekrar etmeyeceğim. Ancak kısa versiyonu şöyle; startup fikirlerini düşünmek için bilinçli bir çaba harcarsanız, Bulduğunuz fikirler sadece kötü olmakla kalmayacak, aynı zamanda kulağa kötü ve makul gelecek, yani kötü olduklarını anlamadan önce onlarla çok zaman harcayacaksınız.
+Bunun üzerine bir [yazı](http://paulgraham.com/startupideas.html) yazdım, bu yüzden burada hepsini tekrar etmeyeceğim. Ancak kısa versiyonu şöyle; startup fikirlerini düşünmek için bilinçli bir çaba harcarsanız, Bulduğunuz fikirler sadece kötü olmakla kalmayacak, aynı zamanda kulağa kötü ve makul gelecek, yani kötü olduklarını anlamadan önce onlarla çok zaman harcayacaksınız.
 
 İyi startup fikirleri bulmanın yolu bir adım geri atmaktır. Startup fikirlerini düşünmek için bilinçli bir çaba sarf etmek yerine, zihninizi hiçbir bilinçli çaba harcamadan startup fikirlerinin oluşturduğu tipe çevirin. Aslında, o kadar bilinçsizce ki, ilk başta bunların startup fikirleri olduğunun farkına bile varmazsınız.
 
@@ -114,7 +114,7 @@ Peki, zihninizi startup fikirlerinin bilinçsizce oluşturduğu tipe nasıl çev
 
 Bu paragrafı ilk yazdığımda, "önemli olan şeyler hakkında çok şey öğren" yerine "bazı teknolojilerde iyi ol" yazmıştım. Ancak bu reçete yeterli olmakla birlikte çok dar. Brian Chesky ve Joe Gebbia'yı özel kılan şey, teknoloji konusunda uzman olmaları değildi. Tasarımda iyiydiler ve belki de daha da önemlisi, grupları organize etmede ve projeleri gerçekleştirmede iyiydiler. Bu nedenle, sizi esnetmeye yetecek kadar talep eden problemler üzerinde çalıştığınız sürece, başlı başına teknoloji üzerinde çalışmak zorunda değilsiniz.
 
-Ne tür problemler bunlar? Genel durumda buna cevap vermek çok zor. Tarih, başka kimsenin  önemli olduğunu düşünmediği ve özellikle ebeveynlerinin önemli olmadığını düşündüğü önemli sorunlar üzerinde çalışan gençlerin örnekleriyle doludur. Öte yandan tarih, çocuklarının zamanını boşa harcadığını düşünen ve haklı olan ebeveyn örnekleriyle daha da doludur. Gerçek şeyler üzerinde çalıştığınızı nasıl anlarsınız? [8]  
+Ne tür problemler bunlar? Genel durumda buna cevap vermek çok zor. Tarih, [başka kimsenin](http://paulgraham.com/marginal.html)  önemli olduğunu düşünmediği ve özellikle ebeveynlerinin önemli olmadığını düşündüğü önemli sorunlar üzerinde çalışan gençlerin örnekleriyle doludur. Öte yandan tarih, çocuklarının zamanını boşa harcadığını düşünen ve haklı olan ebeveyn örnekleriyle daha da doludur. Gerçek şeyler üzerinde çalıştığınızı nasıl anlarsınız? [8]  
  
 Nasıl bildiğimi Ben biliyorum. Gerçek problemler ilginçtir ve hiç kimsenin umurunda olmasa bile (aslında, özellikle de başka kimse onları umursamıyorsa), her zaman ilginç şeyler üzerinde çalışmak istediğim anlamında rahatım; ve önemli olmaları gerekse bile sıkıcı şeyler üzerinde kendimi çalıştırmayı çok zor buluyorum.
 
