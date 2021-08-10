@@ -84,7 +84,7 @@ Bu ikilem göz önüne alındığında, iki yoldan hangisini seçmelisiniz? Ger�
  
 Mark Zuckerberg asla yabancı bir ülkede aylak aylak dolaşamayacak. Çoğu insanın yapamadığı başka şeyleri yapabilir; onu yabancı ülkelere uçuracak kiralık jetler gibi. Ancak başarı, hayatından pek çok mutlu tesadüfü alıp götürdü. Kendisinin Facebook’u yönettiği kadar Facebook da onu yönetiyor. Ve hayatınızın işi olduğunu düşündüğünüz bir projenin kontrolünde olmak çok havalı olsa da, özellikle erken yaşlarda, mutlu tesadüflerin de avantajları vardır. Diğer şeylerin yanı sıra, hayatınızın işini seçmek için size daha fazla seçenek sunar. 
 
-Burada bir takas bile yok. 20 yaşında bir startup başlatmaktan vazgeçerseniz hiçbir şeyden ödün vermiyorsunuz çünkü beklerseniz başarılı olma olasılığınız daha yüksek. 20 yaşında olduğunuz ve yan projelerinizden birinin Facebook'un yaptığı gibi başarılı olması gibi çok muhtemel olmayan bir durumda, bununla devam etmek ya da etmemek arasında bir seçimle karşı karşıya kalacaksınız; ve belki de mantıklı olan devam etmektir. Ancak startupların olağan başarı yolu, kurucuların onları harekete geçirmesidir ve bunu 20 yaşında yapmak gereksiz yere aptalcadır. 
+Burada bir takas bile yok. 20 yaşında bir startup başlatmaktan vazgeçerseniz hiçbir şeyden ödün vermiyorsunuz çünkü beklerseniz başarılı olma olasılığınız daha yüksek. 20 yaşında olduğunuz ve yan projelerinizden birinin Facebook'un yaptığı gibi başarılı olması gibi çok muhtemel olmayan bir durumda, bununla devam etmek ya da etmemek arasında bir seçimle karşı karşıya kalacaksınız; ve belki de mantıklı olan devam etmektir. Ancak startupların olağan başarı yolu, kurucuların onları harekete geçirmesidir ve bunu 20 yaşında [yapmak](http://paulgraham.com/ds.html) gereksiz yere aptalcadır. 
 
 **Dene**  
  
@@ -238,9 +238,9 @@ You can do things in your early 20s that you can't do as well before or after, l
 
 Mark Zuckerberg will never get to bum around a foreign country. He can do other things most people can't, like charter jets to fly him to foreign countries. But success has taken a lot of the serendipity out of his life. Facebook is running him as much as he's running Facebook. And while it can be very cool to be in the grip of a project you consider your life's work, there are advantages to serendipity too, especially early in life. Among other things it gives you more options to choose your life's work from.
 
-There's not even a tradeoff here. You're not sacrificing anything if you forgo starting a startup at 20, because you're more likely to succeed if you wait. In the unlikely case that you're 20 and one of your side projects takes off like Facebook did, you'll face a choice of running with it or not, and it may be reasonable to run with it. But the usual way startups take off is for the founders to make them take off, and it's gratuitously stupid to do that at 20.
+There's not even a tradeoff here. You're not sacrificing anything if you forgo starting a startup at 20, because you're more likely to succeed if you wait. In the unlikely case that you're 20 and one of your side projects takes off like Facebook did, you'll face a choice of running with it or not, and it may be reasonable to run with it. But the usual way startups take off is for the founders to [make them](http://paulgraham.com/ds.html) take off, and it's gratuitously stupid to do that at 20.
 
-Try
+**Try**
 
 Should you do it at any age? I realize I've made startups sound pretty hard. If I haven't, let me try again: starting a startup is really hard. What if it's too hard? How can you tell if you're up to this challenge?
 
