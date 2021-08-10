@@ -17,7 +17,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
-- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
+- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md)
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 - [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
