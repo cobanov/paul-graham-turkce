@@ -114,11 +114,11 @@ Peki, zihninizi startup fikirlerinin bilinçsizce oluşturduğu tipe nasıl çev
 
 Bu paragrafı ilk yazdığımda, "önemli olan şeyler hakkında çok şey öğren" yerine "bazı teknolojilerde iyi ol" yazmıştım. Ancak bu reçete yeterli olmakla birlikte çok dar. Brian Chesky ve Joe Gebbia'yı özel kılan şey, teknoloji konusunda uzman olmaları değildi. Tasarımda iyiydiler ve belki de daha da önemlisi, grupları organize etmede ve projeleri gerçekleştirmede iyiydiler. Bu nedenle, sizi esnetmeye yetecek kadar talep eden problemler üzerinde çalıştığınız sürece, başlı başına teknoloji üzerinde çalışmak zorunda değilsiniz.
 
-Ne tür problemler bunlar? Genel durumda buna cevap vermek çok zor. Tarih, [başka kimsenin](http://paulgraham.com/marginal.html)  önemli olduğunu düşünmediği ve özellikle ebeveynlerinin önemli olmadığını düşündüğü önemli sorunlar üzerinde çalışan gençlerin örnekleriyle doludur. Öte yandan tarih, çocuklarının zamanını boşa harcadığını düşünen ve haklı olan ebeveyn örnekleriyle daha da doludur. Gerçek şeyler üzerinde çalıştığınızı nasıl anlarsınız? [8]  
+Ne tür problemler bunlar? Genel durumda buna cevap vermek çok zor. Tarih, [başka kimsenin](http://paulgraham.com/marginal.html) önemli olduğunu düşünmediği ve özellikle ebeveynlerinin önemli olmadığını düşündüğü önemli sorunlar üzerinde çalışan gençlerin örnekleriyle doludur. Öte yandan tarih, çocuklarının zamanını boşa harcadığını düşünen ve haklı olan ebeveyn örnekleriyle daha da doludur. Gerçek şeyler üzerinde çalıştığınızı nasıl anlarsınız?[8]  
  
 Nasıl bildiğimi Ben biliyorum. Gerçek problemler ilginçtir ve hiç kimsenin umurunda olmasa bile (aslında, özellikle de başka kimse onları umursamıyorsa), her zaman ilginç şeyler üzerinde çalışmak istediğim anlamında rahatım; ve önemli olmaları gerekse bile sıkıcı şeyler üzerinde kendimi çalıştırmayı çok zor buluyorum.
 
-Hayatım sırf ilginç göründüğü için bir şey üzerinde çalıştım ve daha sonra dünyevi bir şekilde faydalı olduğu ortaya çıkan olaylarla dolu. Y Combinator'ın kendisi, sadece ilginç göründüğü için yaptığım bir şeydi. Bu yüzden bana yardımcı olan bir çeşit içsel pusulam var gibi görünüyor. Ama diğer insanların kafasında ne var bilmiyorum. Belki bunun hakkında daha fazla düşünürsem gerçekten ilginç problemleri fark etmek için buluşsal yöntemler bulabilirim; ama şu an için sunabileceğim en iyi şey, gerçekten ilginç problemlere karşı ilginiz varsa, kendinizi yeni bir startup için hazırlamanın en iyi yolunun enerjik bir şekilde şımartmak olduğuna dair umutsuzca soru sorma tavsiyesidir. Ve gerçekten de, muhtemelen yaşamanın en iyi yolu. [9]  
+Hayatım sırf ilginç göründüğü için bir şey üzerinde çalıştım ve daha sonra dünyevi bir şekilde faydalı olduğu ortaya çıkan olaylarla dolu. [Y Combinator'ın kendisi](https://www.ycombinator.com/start.html), sadece ilginç göründüğü için yaptığım bir şeydi. Bu yüzden bana yardımcı olan bir çeşit içsel pusulam var gibi görünüyor. Ama diğer insanların kafasında ne var bilmiyorum. Belki bunun hakkında daha fazla düşünürsem gerçekten ilginç problemleri fark etmek için buluşsal yöntemler bulabilirim; ama şu an için sunabileceğim en iyi şey, gerçekten ilginç problemlere karşı ilginiz varsa, kendinizi yeni bir startup için hazırlamanın en iyi yolunun enerjik bir şekilde şımartmak olduğuna dair umutsuzca soru sorma tavsiyesidir. Ve gerçekten de, muhtemelen yaşamanın en iyi yolu. [9]  
  
 Ancak genel durumda neyin ilginç bir problem olduğunu açıklayamasam da, size bunların büyük bir alt kümesinden bahsedebilirim. Teknolojiyi bir tür fraktal leke gibi yayılan bir şey olarak düşünürseniz, kenardaki her hareket noktası ilginç bir sorunu temsil eder. Bu nedenle, zihninizi iyi başlangıç fikirlerine sahip bir tipe dönüştürmenin garantili bir yolu, kendinizi bir teknolojinin en uç noktasına götürmek - Paul Buchheit'in dediği gibi, "gelecekte yaşamak" için kendinize sebep vermektir. Bu noktaya ulaştığınızda, diğer insanlara esrarengiz bir şekilde ileri görüşlü görünecek fikirler size açık görünecektir. Startup fikirleri olduklarını fark etmeyebilirsiniz; ancak bunların var olması gereken bir şey olduğunu bileceksiniz.
 
@@ -131,12 +131,13 @@ Girişimciliğin gerçekten önemli olan bileşeni alan uzmanlığıdır. Larry 
 En iyi ihtimalle, bir startup başlatmak, merak için yalnızca bir art nedendir. Ve sürecin sonuna doğru gizli güdüyü ortaya koyarsanız bunu en iyi şekilde yapacaksınız.
 İşte genç müstakbel girişimciler için iki kelimeye indirgenmiş en büyük tavsiye: sadece öğrenin.
 
-Notlar 
-[1] Bazı kurucular diğerlerinden daha fazla dinler ve bu,  başarının habercisi olma eğilimindedir. YC sırasında Airbnb'ler hakkında hatırladığım şeylerden biri, ne kadar dikkatle dinledikleri.
+**Notlar**
+
+[1] Bazı kurucular diğerlerinden daha fazla dinler ve bu, [başarının habercisi](http://paulgraham.com/word.html) olma eğilimindedir. YC sırasında Airbnb'ler hakkında hatırladığım şeylerden biri, ne kadar dikkatle dinledikleri.
 
 [2] Aslında, startupların mümkün olmasının nedenlerinden biri de budur. Büyük şirketler iç verimsizliklerden rahatsız olmasaydı, orantılı olarak daha etkili olacak ve startuplara daha az yer bırakacaklardı.
 
-[3] Bir startup'ta zorluklarla çok zaman harcamanız gerekir, ancak bu tür işler sadece gösterişsizdir, yapmacık değil.
+[3] Bir startup'ta [zorluklarla](http://paulgraham.com/schlep.html) çok zaman harcamanız gerekir, ancak bu tür işler sadece gösterişsizdir, yapmacık değil.
 
 [4] Asıl tutkunuz sistemle oynamaksa ne yapmalısınız? Yönetim danışmanlığı.
 
