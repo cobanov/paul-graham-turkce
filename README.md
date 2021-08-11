@@ -38,6 +38,8 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 - [Before the Startup - Startup'dan Önce](articles/before-the-startup.md)
 - [How You Know - Nasıl biliyorsun](articles/how-you-know.md)
+- [The Risk of Discovery - Keşif Riski](articles/the-risk-of-discovery.md)
+- [Novelty and Heresy - Yenilik ve Sapkınlık](articles/novelty-and-heresy.md)
 
 ## Çevirmenler
 
@@ -62,7 +64,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
 |[Bora Kış](https://github.com/BoraKis)|7|
 |[Ayşe Türk](https://github.com/ayseturkk)|1|
-|[Turhan Can Kargın](https://github.com/turhancan97)|1|
+|[Turhan Can Kargın](https://github.com/turhancan97)|3|
 |[Melike Toksoz](https://github.com/melikeetoksoz)|1|
 
 ## Katkıda Bulunun
@@ -73,9 +75,9 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 Aynı essay'i çevirmemek adına bir çeviriye başladığınızda bunu issue bölümünden belirtebilirsiniz. Aynı zamanda çeviride diğer arkadaşlardan öneri almak ve iletişim kurmak için [Discord Kanalımıza](https://discord.gg/PY7DwAArwU) gelebilirsiniz.
 
 ### Nasıl Katkıda Bulunurum?
-İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız. 
+İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız.
 
-Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz. 
+Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz.
 
 ### Ufak bir rica
 
@@ -94,4 +96,3 @@ Proje kapsamında her türlü sorunuz ve öneriniz için aşağıdaki iki adrest
 
 - **Twitter:** [mertcobanov](https://twitter.com/mertcobanov)
 - **Mail:** [mertcobanov@gmail.com](mailto:mertcobanov@gmail.com)
-
