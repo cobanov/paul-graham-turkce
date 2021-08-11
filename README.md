@@ -37,6 +37,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
 - [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 - [Before the Startup - Startup'dan Önce](articles/before-the-startup.md)
+- [How You Know - Nasıl biliyorsun](articles/how-you-know.md)
 
 ## Çevirmenler
 
@@ -62,7 +63,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Bora Kış](https://github.com/BoraKis)|7|
 |[Ayşe Türk](https://github.com/ayseturkk)|1|
 |[Turhan Can Kargın](https://github.com/turhancan97)|1|
-
+|[Melike Toksoz](https://github.com/melikeetoksoz)|1|
 
 ## Katkıda Bulunun
 
