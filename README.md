@@ -17,14 +17,32 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Return of the Mac - Mac'in Geri Dönüşü](articles/return-of-the-mac.md)
 - [See Randomness - Rastlantısallığı Gör](articles/see-randomness.md)
 - [The Bus Ticket Theory of Genius - Dehanın Otobüs Bileti Teorisi](articles/the-bus-ticket-theory-of-genius.md)
-- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md.md)
+- [The Hardest Lessons for Startups to Learn - Startuplar İçin Öğrenmesi En Zor Dersler](articles/the-hardest-lessons-for-startups-to-learn.md)
 - [The Python Paradox - Python Paradoksu](articles/the-python-paradox.md)
 - [What Languages Fix - Programlama Dilleri Neyi Çözdü](articles/what-languages-fix.md)
 - [The Four Quadrants of Conformism - Konforizmin Dört Çeyreği](articles/four-quadrants-of-conformism.md)
-- [Writing, Briefly - Yazı, Kısaca](articles/writing-briefly.md)
+- [Writing, Briefly - Yazmak, Kısaca](articles/writing-briefly.md)
 - [Life is Short - Hayat kısa](articles/life-is-short.md)
 - [How People get Rich Now - İnsanlar şimdi nasıl zengin oluyor](articles/how-people-get-rich-now.md)
+- [How to Write Usefully - Nasıl Faydalı Yazılır](articles/how-to-write-usefully.md)
+- [The Island Test - Ada Testi](articles/the-island-test.md)
+- [What Business Can Learn from Open Source - İşletmeler Açık Kaynaktan Neler Öğrenebilir](articles/what-business-can-learn-from-open-source.md)
+- [A Way to Detect Bias - Önyargıyı Tespit Etmenin Bir Yolu](articles/a-way-to-detect-bias.md)
+- [A Student's Guide to Startups - Öğrenciler için Startup Rehberi](articles/a-students-guide-to-startups.md)
+- [The Airbnbs - Airbnb'ler](articles/the-airbnbs.md)
+- [Why Twitter is a Big Deal - Twitter Neden Büyük Bir Fırsat](articles/why-twitter-is-a-big-deal.md)
+- [Charisma / Power - Karizma / Güç](articles/charisma-power.md)
+- [Being a Noob - Acemi Olmak](articles/being-a-noob.md)
+- [General and Surprising - Genel ve Şaşırtıcı](articles/general-and-surprising.md)
+- [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
+- [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
+- [Before the Startup - Startup'dan Önce](articles/before-the-startup.md)
+- [How You Know - Nasıl biliyorsun](articles/how-you-know.md)
+- [The Risk of Discovery - Keşif Riski](articles/the-risk-of-discovery.md)
+- [Novelty and Heresy - Yenilik ve Sapkınlık](articles/novelty-and-heresy.md)
 - [Early Work - Erken Çalışmalar](http://paulgraham.com/early.html)
+
+
 ## Çevirmenler
 
 Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
@@ -39,16 +57,18 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Nurettin Abacı](https://github.com/nurettinabaci) |3|
 |[Mustafa Durmuş](https://github.com/mdurmuss) |1|
 |[İrem Komurcu](https://github.com/irem-komurcu) |1|
-|[İrem Akyol](https://github.com/lastirembender) |1|
+|[İrem Akyol](https://github.com/lastirembender) |2|
 |[Vusal Ismayilov](https://github.com/woosal1337) |1|
-|[Ozan Sülükpınar](https://github.com/ozansulukpinar) |1|
+|[Ozan Sülükpınar](https://github.com/ozansulukpinar) |3|
 |Zeynep Evecen|1|
 |Mert Bozkurt|1|
-|Doğancan Mavideniz|1|
-|[Güldeniz Bektaş](https://github.com/GuldenizBektas)|1|
+|[Doğancan Mavideniz](https://github.com/mavideniz)|1|
+|[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
+|[Bora Kış](https://github.com/BoraKis)|7|
+|[Ayşe Türk](https://github.com/ayseturkk)|1|
+|[Turhan Can Kargın](https://github.com/turhancan97)|3|
+|[Melike Toksoz](https://github.com/melikeetoksoz)|1|
 |[Elif Çelik](https://github.com/eelifcelik)|1|
-
----
 
 ## Katkıda Bulunun
 
@@ -58,9 +78,9 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 Aynı essay'i çevirmemek adına bir çeviriye başladığınızda bunu issue bölümünden belirtebilirsiniz. Aynı zamanda çeviride diğer arkadaşlardan öneri almak ve iletişim kurmak için [Discord Kanalımıza](https://discord.gg/PY7DwAArwU) gelebilirsiniz.
 
 ### Nasıl Katkıda Bulunurum?
-İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız. 
+İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız.
 
-Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz. 
+Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz.
 
 ### Ufak bir rica
 
@@ -79,4 +99,3 @@ Proje kapsamında her türlü sorunuz ve öneriniz için aşağıdaki iki adrest
 
 - **Twitter:** [mertcobanov](https://twitter.com/mertcobanov)
 - **Mail:** [mertcobanov@gmail.com](mailto:mertcobanov@gmail.com)
-
