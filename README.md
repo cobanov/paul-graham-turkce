@@ -24,7 +24,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Writing, Briefly - Yazı, Kısaca](articles/writing-briefly.md)
 - [Life is Short - Hayat kısa](articles/life-is-short.md)
 - [How People get Rich Now - İnsanlar şimdi nasıl zengin oluyor](articles/how-people-get-rich-now.md)
-
+- [Early Work - Erken Çalışmalar](http://paulgraham.com/early.html)
 ## Çevirmenler
 
 Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
@@ -46,6 +46,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |Mert Bozkurt|1|
 |Doğancan Mavideniz|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|1|
+|[Elif Çelik](https://github.com/eelifcelik)|1|
 
 ---
 
