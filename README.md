@@ -40,6 +40,8 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [How You Know - Nasıl biliyorsun](articles/how-you-know.md)
 - [The Risk of Discovery - Keşif Riski](articles/the-risk-of-discovery.md)
 - [Novelty and Heresy - Yenilik ve Sapkınlık](articles/novelty-and-heresy.md)
+- [Early Work - Erken Çalışmalar](http://paulgraham.com/early.html)
+
 
 ## Çevirmenler
 
@@ -66,6 +68,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Ayşe Türk](https://github.com/ayseturkk)|1|
 |[Turhan Can Kargın](https://github.com/turhancan97)|3|
 |[Melike Toksoz](https://github.com/melikeetoksoz)|1|
+|[Elif Çelik](https://github.com/eelifcelik)|1|
 
 ## Katkıda Bulunun
 
