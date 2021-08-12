@@ -33,7 +33,7 @@ Bunun farkına varmak unutmak hakkında daha iyi hissettirmekten fazlasını yap
 
 Sonuç olarak, sadece deneyimlerimizi tekrar oynatmakla kalmayıp onları indeksleyebilir hatta yeniden düzenleyebiliriz. Bu yüzden bir şeyleri nasıl bildiğini bilmemek insan olmanın bir parçası gibi görünse de öyle olmayabilir. 
 
-Bunun taslakları okudukları için Sam Altman, Jessica Livingston ve Robert Morris'e teşekkürler.
+Bu taslakları okudukları için Sam Altman, Jessica Livingston ve Robert Morris'e teşekkürler.
 
 ## Orijinal
 December 2014
