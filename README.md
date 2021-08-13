@@ -41,7 +41,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [The Risk of Discovery - Keşif Riski](articles/the-risk-of-discovery.md)
 - [Novelty and Heresy - Yenilik ve Sapkınlık](articles/novelty-and-heresy.md)
 - [What Kate Saw in Silicon Walley - Kate Silikon Vadisi'nde Ne Gördü](articles/what-kate-saw-in-silicon-walley.md)
-- [Early Work - Erken Çalışmalar](http://paulgraham.com/early.html)
+- [Early Work - Erken Çalışmalar](articles/early-work.md)
 
 ## Çevirmenler
 
