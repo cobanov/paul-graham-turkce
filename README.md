@@ -2,7 +2,7 @@
 ## 🇬🇧 [Read this page in English](README-EN.md)
 
 
-Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçeye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
+Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçe'ye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
 
 
 ## Çevirilen Yazılar  
