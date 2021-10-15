@@ -1,4 +1,4 @@
-# Weird Language
+# Weird Languages
 
 **Kaynak:** [http://paulgraham.com/weird.html](http://paulgraham.com/weird.html)
 
