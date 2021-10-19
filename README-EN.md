@@ -33,6 +33,8 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 - [Crazy New Ideas - Çılgın Yeni Fikirler](articles/crazy-new-ideas.md)
 - [Where to See Silicon Valley - Silikon Vadisi Nerede Görülmeli](articles/where-to-see-silicon-valley.md)
 - [Before the Startup - Startup'dan Önce](articles/before-the-startup.md)
+- [Weird Languages](articles/weird-languages.md)
+- [An NFT That Saves Lives ](articles/an-nft-that-saves-lives.md)
 
 ## Translators
 
@@ -56,6 +58,7 @@ Many thanks to all the translators who supported the volunteer project.
 |[Doğancan Mavideniz](https://github.com/mavideniz)|1|
 |[Güldeniz Bektaş](https://github.com/GuldenizBektas)|2|
 |[Bora Kış](https://github.com/BoraKis)|7|
+|[Furkan Yeşilyurt](https://github.com/furkanyesilyurt)|2|
 
 ## Contributions
 
