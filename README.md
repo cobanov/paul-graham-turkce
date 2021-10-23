@@ -73,7 +73,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [Melike Toksoz](https://github.com/melikeetoksoz)       | 2     |
 | [Elif Çelik](https://github.com/eelifcelik)             | 1     |
 | [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 2     |
-| Halil İbrahim Deniz                                     | 2     |
+| Halil İbrahim Deniz                                     | 1     |
 
 ## Katkıda Bulunun
 
