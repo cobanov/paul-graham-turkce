@@ -42,6 +42,8 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 - [Novelty and Heresy - Yenilik ve Sapkınlık](articles/novelty-and-heresy.md)
 - [What Kate Saw in Silicon Walley - Kate Silikon Vadisi'nde Ne Gördü](articles/what-kate-saw-in-silicon-walley.md)
 - [Early Work - Erken Çalışmalar](articles/early-work.md)
+- [Weird Languages](articles/weird-languages.md)
+- [An NFT That Saves Lives](articles/an-nft-that-saves-lives.md)
 
 ## Çevirmenler
 
@@ -69,6 +71,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 |[Turhan Can Kargın](https://github.com/turhancan97)|3|
 |[Melike Toksoz](https://github.com/melikeetoksoz)|2|
 |[Elif Çelik](https://github.com/eelifcelik)|1|
+|[Furkan Yeşilyurt](https://github.com/furkanyesilyurt)|2|
 
 ## Katkıda Bulunun
 
