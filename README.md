@@ -44,6 +44,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [Early Work - Erken Çalışmalar](articles/early-work.md)
 1. [Weird Languages](articles/weird-languages.md)
 1. [An NFT That Saves Lives](articles/an-nft-that-saves-lives.md)
+1. [Design and Research](articles/design-and-research.md)
 
 ## Çevirmenler
 
@@ -72,6 +73,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [Melike Toksoz](https://github.com/melikeetoksoz)       | 2     |
 | [Elif Çelik](https://github.com/eelifcelik)             | 1     |
 | [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 2     |
+| Halil İbrahim Deniz                                     | 2     |
 
 ## Katkıda Bulunun
 
