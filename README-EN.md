@@ -48,6 +48,7 @@ This repo is a voluntarily growing resource that publishes Turkish translations 
 1. [Early Work - Erken Çalışmalar](articles/early-work.md)
 1. [Weird Languages](articles/weird-languages.md)
 1. [An NFT That Saves Lives](articles/an-nft-that-saves-lives.md)
+1. [Donate Unrestricted](articles/donate-unrestricted.md)
 
 ## Translators
 
@@ -71,7 +72,7 @@ Many thanks to all the translators who supported the volunteer project.
 | [Doğancan Mavideniz](https://github.com/mavideniz)      | 1     |
 | [Güldeniz Bektaş](https://github.com/GuldenizBektas)    | 2     |
 | [Bora Kış](https://github.com/BoraKis)                  | 7     |
-| [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 2     |
+| [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 3     |
 
 ## Contributions
 
