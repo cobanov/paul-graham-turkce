@@ -72,7 +72,7 @@ Bu arada, Jessica'yı halka açık bir etkinlikte görseydiniz, ilgiden nefret e
 
 Konuşmalarda bir tür Gresham Kanunu vardır. Eğer bir konuşma belli bir kabalik seviyesine ulaşırsa, daha düşünceli insanlar konuşmayı terk etmeye başlar. Kimse kadın kurucuları Jessica'dan daha iyi anlayamaz. Ancak kimsenin onun bu konu hakkında içtenlikle konuştuğunu duyması pek olası değil. Bir süre önce bu suya ayak parmağını soktu ve tepkiler o kadar şiddetliydi ki "bir daha asla" diyerek karar verdi.
 
-Sam Altman, Paul Buchheit, Patrick Collison, Daniel Gackle, Carolynn Levy, Jon Levy, Kirsty Nathoo, Robert Morris, Geoff Ralston ve Harj Taggar'a bu yazının taslaklarını okudukları için **teşekkür** ederim. Ve evet, Jessica Livingston’a da, bana şaşırtıcı derecede az kesinti yaptırğı için.
+Sam Altman, Paul Buchheit, Patrick Collison, Daniel Gackle, Carolynn Levy, Jon Levy, Kirsty Nathoo, Robert Morris, Geoff Ralston ve Harj Taggar'a bu yazının taslaklarını okudukları için **teşekkür** ederim. Ve evet, Jessica Livingston’a da, bana şaşırtıcı derecede az kesinti yaptırdığı için.
 
 ## Orjinal
 
