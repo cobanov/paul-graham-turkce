@@ -46,6 +46,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [Donate Unrestricted - Sınırsız Bağış](articles/donate-unrestricted.md)
 1. [Programming Bottom-Up - Aşağıdan Yukarıya Programlama](articles/programming-bottom-up.md)
 1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
+1. [The Need to Read - Okuma Ihtiyaci](articles/the-need-to-read.md)
 
 
 ## Çevirmenler
@@ -54,7 +55,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 
 | Translator                                              | Count |
 | ------------------------------------------------------- | ----- |
-| [Mert Cobanov](https://github.com/cobanov/)             | 2     |
+| [Mert Cobanov](https://github.com/cobanov/)             | 3     |
 | [Fethi Tekyaygil](https://github.com/TekyaygilFethi)    | 1     |
 | [Eylül Kırdak](https://github.com/eylulkirdak/)         | 1     |
 | [Mustafa Enes Güneruz](https://github.com/menesguneruz) | 1     |
