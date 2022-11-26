@@ -45,6 +45,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [Design and Research](articles/design-and-research.md)
 1. [Donate Unrestricted - Sınırsız Bağış](articles/donate-unrestricted.md)
 1. [Programming Bottom-Up - Aşağıdan Yukarıya Programlama](articles/programming-bottom-up.md)
+1. [What Microsoft is This Altair Basic Of - What Microsoft is This Altair Basic O](articles/what-microsoft-is-this-altair-basic-of.md)
 1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
 1. [The Need to Read - Okuma Ihtiyaci](articles/the-need-to-read.md)
 
@@ -78,7 +79,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 4     |
 | Halil İbrahim Deniz                                     | 1     |
 | [Muhammed Tan](https://github.com/intelMT)              | 1     |
-
+| Semih Berkay Öztürk                                     | 1     |
 
 ## Katkıda Bulunun
 
@@ -90,7 +91,7 @@ Aynı essay'i çevirmemek adına bir çeviriye başladığınızda bunu issue b�
 
 İki tür katkıda bulunabilirsiniz, birincisi tahmin edebileceğiniz gibi **yeni essayleri çevirmek**, ikinici **çevirisi yapılan yazılarda bulduğunuz hataları veya daha iyi olan önerinizi** bize iletmek. Her türlü katkınıza sonuna kadar açığız.
 
-Projeye katkıda bulunmak oldukça kolay isterseniz Pull Request gönderin isterseniz yaptığınız çeviriyi [mail](mailto:mertcobanov@gmail.com) olarak bize iletebilirsiniz.
+Projeye katkıda bulunmak oldukça kolay, yaptığınız çeviriyi Pull Request gönderin, aynı zamanda readme dosyasısını isminiz ve makalenizin linki ile güncellemi unutmayın.
 
 ### Ufak bir rica
 
