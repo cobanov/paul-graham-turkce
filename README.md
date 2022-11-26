@@ -47,6 +47,8 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [Design and Research](articles/design-and-research.md)
 1. [Donate Unrestricted - Sınırsız Bağış](articles/donate-unrestricted.md)
 1. [Programming Bottom-Up - Aşağıdan Yukarıya Programlama](articles/programming-bottom-up.md)
+1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
+
 
 ## Çevirmenler
 
@@ -76,6 +78,8 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [Elif Çelik](https://github.com/eelifcelik)             | 1     |
 | [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 4     |
 | Halil İbrahim Deniz                                     | 1     |
+| Muhammed Tan                                            | 1     |
+
 
 ## Katkıda Bulunun
 
