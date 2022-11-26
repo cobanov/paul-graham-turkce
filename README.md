@@ -78,7 +78,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [Elif Çelik](https://github.com/eelifcelik)             | 1     |
 | [Furkan Yeşilyurt](https://github.com/furkanyesilyurt)  | 4     |
 | Halil İbrahim Deniz                                     | 1     |
-| Muhammed Tan                                            | 1     |
+| [Muhammed Tan](https://github.com/intelMT)              | 1     |
 
 
 ## Katkıda Bulunun
