@@ -1,4 +1,4 @@
-# A Student's Guide to Startups
+# The Need to Read
 
 **Kaynak:** [http://paulgraham.com/read.html](http://paulgraham.com/read.html)
 
