@@ -1,9 +1,9 @@
 # paul-graham-turkce
 
 Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçe'ye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
-
+ddd
 ## Çevirilen Yazılar
-
+dd
 1. [How to Work Hard - Nasıl Sıkı Çalışılır](articles/how-to-work-hard.md)
 1. [Six Principles for Making New Things - Yeni Şeyler Yaratmanın Altı İlkesi](articles/six-principles-for-making-new-things.md)
 1. [Fierce Nerds - Azılı İnekler](articles/fierce-nerds.md)
