@@ -48,7 +48,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [What Microsoft is This Altair Basic Of - What Microsoft is This Altair Basic O](articles/what-microsoft-is-this-altair-basic-of.md)
 1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
 1. [The Need to Read - Okuma Ihtiyaci](articles/the-need-to-read.md)
-
+1. [What You'll Wish You'd Known - Neyi Bilmek İsterdiniz](articles/what-you-will-wish-you-would-known.md)
 
 ## Çevirmenler
 
@@ -80,6 +80,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | Halil İbrahim Deniz                                     | 1     |
 | [Muhammed Tan](https://github.com/intelMT)              | 1     |
 | Semih Berkay Öztürk                                     | 1     |
+| Ece Rana Sokel                                          | 1     |
 
 ## Katkıda Bulunun
 
