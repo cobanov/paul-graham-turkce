@@ -48,7 +48,6 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [What Microsoft is This Altair Basic Of - What Microsoft is This Altair Basic O](articles/what-microsoft-is-this-altair-basic-of.md)
 1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
 1. [The Need to Read - Okuma Ihtiyaci](articles/the-need-to-read.md)
-1. [This Year We Can End the Death Penalty in California - Bu Yıl California'daki Ölüm Cezasını Sonlandırabiliriz](articles/this-year-we-can-end-the-death-penalty-in-california.md)
 
 
 ## Çevirmenler
@@ -67,7 +66,7 @@ Gönüllü projeye destek olan tüm çevirmenlere sonsuz teşekkürler.
 | [İrem Komurcu](https://github.com/irem-komurcu)         | 1     |
 | [İrem Akyol](https://github.com/lastirembender)         | 2     |
 | [Vusal Ismayilov](https://github.com/woosal1337)        | 1     |
-| [Ozan Sülükpınar](https://github.com/ozansulukpinar)    | 4     |
+| [Ozan Sülükpınar](https://github.com/ozansulukpinar)    | 3     |
 | Zeynep Evecen                                           | 1     |
 | Mert Bozkurt                                            | 1     |
 | [Doğancan Mavideniz](https://github.com/mavideniz)      | 1     |
